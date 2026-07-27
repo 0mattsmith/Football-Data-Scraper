@@ -53,7 +53,7 @@ program
 program
     .command('scrape')
     .description('Scrape footballer profiles from Wikipedia/Wikidata by era')
-    .option('-e, --era <type>', 'Era to scrape: pioneers, postwar, premierleague, modern, all', 'premierleague')
+    .option('-e, --era <type>', 'Era to scrape: pioneers, postwar, premierleague, modern, trending, all', 'premierleague')
     .option('-s, --sync', 'Sync immediately to Half Time • Football Trivia Arena', true)
     .option('-f, --firestore', 'Upsert results into Firebase Firestore', false)
     .action(async (options) => {
@@ -86,6 +86,29 @@ program
     }
     else {
         console.log(`[Photo Scraper] ⚠️ No suitable portrait photo found for "${name}".`);
+    }
+});
+program
+    .command('info <name>')
+    .description('Scrape and display enriched career profile (position, shirt number, caps, teams managed)')
+    .action(async (name) => {
+    console.log(`[Info Scraper] Extracting enriched Wikipedia infobox data for "${name}"...`);
+    const { scrapeWikipediaInfobox } = await Promise.resolve().then(() => __importStar(require('./scrapers/infoboxScraper')));
+    const result = await scrapeWikipediaInfobox(name);
+    if (result) {
+        console.log(`[Info Scraper] ✅ Enriched Profile for ${result.name}:`);
+        console.log(`   Nationality    : ${result.nationality}`);
+        console.log(`   Position       : ${result.position || 'N/A'}`);
+        console.log(`   Shirt Number   : ${result.shirtNumber || 'N/A'}`);
+        console.log(`   Intl Caps      : ${result.caps ? `${result.caps} caps (${result.internationalGoals || 0} goals)` : 'N/A'}`);
+        console.log(`   Career Clubs   : ${result.clubs.length} clubs (${result.clubs.slice(0, 4).join(', ')}...)`);
+        console.log(`   Major Trophies : ${result.trophies.length} trophies`);
+        if (result.teamsManaged && result.teamsManaged.length > 0) {
+            console.log(`   Teams Managed  : ${result.teamsManaged.join(', ')}`);
+        }
+    }
+    else {
+        console.log(`[Info Scraper] ⚠️ Could not extract profile for "${name}".`);
     }
 });
 program

@@ -5,6 +5,7 @@ exports.scrapeEraProfiles = scrapeEraProfiles;
 const synonymGenerator_1 = require("./synonymGenerator");
 const infoboxScraper_1 = require("./infoboxScraper");
 const photoScraper_1 = require("./photoScraper");
+const trendingScraper_1 = require("./trendingScraper");
 /**
  * Curated seed list of iconic players across football history to ensure
  * instant offline availability and guaranteed recognition.
@@ -37,14 +38,18 @@ exports.SEED_ICONS_BY_ERA = {
         'Lamine Yamal', 'Cole Palmer', 'Phil Foden', 'Rodri', 'William Saliba', 'Declan Rice',
         'Bruno Fernandes', 'Marcus Rashford', 'Alejandro Garnacho', 'Kobbie Mainoo', 'Florian Wirtz',
         'Jamal Musiala', 'Pedri', 'Gavi', 'Julian Alvarez', 'Alexis Mac Allister', 'Enzo Fernandez'
-    ]
+    ],
+    trending: trendingScraper_1.TRENDING_WONDERKIDS
 };
 /**
  * Fetches and aggregates profiles for a given era or list of names.
  */
 async function scrapeEraProfiles(era = 'premierleague') {
+    if (era === 'trending') {
+        return await (0, trendingScraper_1.scrapeTrendingEra)();
+    }
     const names = era === 'all'
-        ? Object.values(exports.SEED_ICONS_BY_ERA).flat()
+        ? Array.from(new Set([...Object.values(exports.SEED_ICONS_BY_ERA).flat()]))
         : exports.SEED_ICONS_BY_ERA[era] || exports.SEED_ICONS_BY_ERA['premierleague'];
     const results = [];
     for (const name of names) {

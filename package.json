@@ -1,6 +1,6 @@
 {
   "name": "football-data-scraper",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Ever-evolving Footballer Data Scraper & Archive Engine from FA inception (1863) to present day. Exports to JSON and Firebase Firestore for Half Time Trivia.",
   "main": "dist/cli.js",
   "bin": {
