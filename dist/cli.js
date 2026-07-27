@@ -45,6 +45,7 @@ const exportDb_1 = require("./syncer/exportDb");
 const firestoreUpsert_1 = require("./syncer/firestoreUpsert");
 const server_1 = require("./api/server");
 const graphScraper_1 = require("./scrapers/graphScraper");
+const crawler_1 = require("./scrapers/crawler");
 const program = new commander_1.Command();
 program
     .name('football-data-scraper')
@@ -177,5 +178,14 @@ program
     else {
         console.log(JSON.stringify(section, null, 2));
     }
+});
+program
+    .command('crawl [category]')
+    .description('Crawl Wikipedia to discover EFL clubs, historic EFL clubs, and stadiums')
+    .action(async (category = 'efl') => {
+    const result = await (0, crawler_1.crawlKnowledgeGraph)(category);
+    console.log(`[Crawl] Result: +${result.addedClubs} Clubs, +${result.addedStadiums} Stadiums.`);
+    console.log(`[Crawl] Total Clubs in Knowledge Graph: ${Object.keys(result.graph.clubs).length}`);
+    console.log(`[Crawl] Total Stadiums in Knowledge Graph: ${Object.keys(result.graph.stadiums).length}`);
 });
 program.parse(process.argv);

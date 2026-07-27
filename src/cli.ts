@@ -10,6 +10,7 @@ import { exportToLocalDb, syncToHalfTimeTrivia } from './syncer/exportDb';
 import { upsertToFirestore } from './syncer/firestoreUpsert';
 import { FootballApiServer } from './api/server';
 import { buildFootballKnowledgeGraph } from './scrapers/graphScraper';
+import { crawlKnowledgeGraph } from './scrapers/crawler';
 
 const program = new Command();
 
@@ -154,6 +155,16 @@ program
     } else {
       console.log(JSON.stringify(section, null, 2));
     }
+  });
+
+program
+  .command('crawl [category]')
+  .description('Crawl Wikipedia to discover EFL clubs, historic EFL clubs, and stadiums')
+  .action(async (category = 'efl') => {
+    const result = await crawlKnowledgeGraph(category);
+    console.log(`[Crawl] Result: +${result.addedClubs} Clubs, +${result.addedStadiums} Stadiums.`);
+    console.log(`[Crawl] Total Clubs in Knowledge Graph: ${Object.keys(result.graph.clubs).length}`);
+    console.log(`[Crawl] Total Stadiums in Knowledge Graph: ${Object.keys(result.graph.stadiums).length}`);
   });
 
 program.parse(process.argv);

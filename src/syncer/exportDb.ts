@@ -1,6 +1,7 @@
 import fs from 'fs';
 import path from 'path';
 import { FootballerProfile } from '../types/footballer';
+import { buildFootballKnowledgeGraph } from '../scrapers/graphScraper';
 
 /**
  * Deduplicates, cleans, and exports footballer profiles to JSON format.
@@ -84,6 +85,23 @@ export function syncToHalfTimeTrivia(profiles: FootballerProfile[]): string {
 
   const combinedProfiles = [...profiles, ...existingProfiles];
   const outFile = exportToLocalDb(combinedProfiles, halfTimeDir);
-  console.log(`[Sync] Successfully synced database to Half Time Trivia: ${destFile}`);
+  exportKnowledgeGraph(halfTimeDir);
+  console.log(`[Sync] Successfully synced database & knowledge graph to Half Time Trivia: ${destFile}`);
   return destFile;
+}
+
+/**
+ * Exports the cross-referenced Football Knowledge Graph to JSON format.
+ */
+export function exportKnowledgeGraph(targetDir?: string): string {
+  const outDir = targetDir || path.join(__dirname, '../../dist');
+  if (!fs.existsSync(outDir)) {
+    fs.mkdirSync(outDir, { recursive: true });
+  }
+
+  const graph = buildFootballKnowledgeGraph();
+  const outFile = path.join(outDir, 'football-knowledge-graph.json');
+  fs.writeFileSync(outFile, JSON.stringify(graph, null, 2), 'utf8');
+  console.log(`[Export] Successfully exported Football Knowledge Graph to: ${outFile}`);
+  return outFile;
 }

@@ -5,8 +5,10 @@ var __importDefault = (this && this.__importDefault) || function (mod) {
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.exportToLocalDb = exportToLocalDb;
 exports.syncToHalfTimeTrivia = syncToHalfTimeTrivia;
+exports.exportKnowledgeGraph = exportKnowledgeGraph;
 const fs_1 = __importDefault(require("fs"));
 const path_1 = __importDefault(require("path"));
+const graphScraper_1 = require("../scrapers/graphScraper");
 /**
  * Deduplicates, cleans, and exports footballer profiles to JSON format.
  * Optionally syncs directly into the Half Time • Football Trivia Arena directory.
@@ -84,6 +86,21 @@ function syncToHalfTimeTrivia(profiles) {
     }
     const combinedProfiles = [...profiles, ...existingProfiles];
     const outFile = exportToLocalDb(combinedProfiles, halfTimeDir);
-    console.log(`[Sync] Successfully synced database to Half Time Trivia: ${destFile}`);
+    exportKnowledgeGraph(halfTimeDir);
+    console.log(`[Sync] Successfully synced database & knowledge graph to Half Time Trivia: ${destFile}`);
     return destFile;
+}
+/**
+ * Exports the cross-referenced Football Knowledge Graph to JSON format.
+ */
+function exportKnowledgeGraph(targetDir) {
+    const outDir = targetDir || path_1.default.join(__dirname, '../../dist');
+    if (!fs_1.default.existsSync(outDir)) {
+        fs_1.default.mkdirSync(outDir, { recursive: true });
+    }
+    const graph = (0, graphScraper_1.buildFootballKnowledgeGraph)();
+    const outFile = path_1.default.join(outDir, 'football-knowledge-graph.json');
+    fs_1.default.writeFileSync(outFile, JSON.stringify(graph, null, 2), 'utf8');
+    console.log(`[Export] Successfully exported Football Knowledge Graph to: ${outFile}`);
+    return outFile;
 }

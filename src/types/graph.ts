@@ -57,10 +57,28 @@ export interface NationalTeamProfile {
   confederation?: string;// e.g. "UEFA", "CONMEBOL"
 }
 
+export interface ManagerStint {
+  clubId: string;        // e.g. "arsenal", "manchester-united"
+  startYear: number;     // e.g. 1996
+  endYear?: number;      // e.g. 2018
+  trophiesWon?: string[];// e.g. ["premier-league", "fa-cup"]
+}
+
+export interface ManagerProfile {
+  id: string;            // e.g. "arsene-wenger", "sir-alex-ferguson", "pep-guardiola"
+  name: string;          // e.g. "Arsène Wenger"
+  synonyms: string[];    // e.g. ["wenger", "le professeur"]
+  nationality: string;   // e.g. "France"
+  flagUrl?: string;      // Country flag SVG URL
+  photoUrl?: string;     // Wikimedia photo URL
+  stints: ManagerStint[];
+}
+
 export interface FootballKnowledgeGraph {
   clubs: Record<string, ClubProfile>;
   stadiums: Record<string, StadiumProfile>;
   trophies: Record<string, TrophyProfile>;
   nationalTeams: Record<string, NationalTeamProfile>;
+  managers: Record<string, ManagerProfile>;
   updatedAt: string;
 }

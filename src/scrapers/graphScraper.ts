@@ -1,4 +1,4 @@
-import { FootballKnowledgeGraph, ClubProfile, StadiumProfile, TrophyProfile, NationalTeamProfile } from '../types/graph';
+import { FootballKnowledgeGraph, ClubProfile, StadiumProfile, TrophyProfile, NationalTeamProfile, ManagerProfile } from '../types/graph';
 
 /**
  * Historical Football Knowledge Graph Seed & Scraper Engine
@@ -375,12 +375,116 @@ const SEED_NATIONAL_TEAMS: Record<string, NationalTeamProfile> = {
   }
 };
 
+const SEED_MANAGERS: Record<string, ManagerProfile> = {
+  'arsene-wenger': {
+    id: 'arsene-wenger',
+    name: 'Arsène Wenger',
+    synonyms: ['wenger', 'le professeur'],
+    nationality: 'France',
+    flagUrl: 'https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg',
+    stints: [
+      {
+        clubId: 'arsenal',
+        startYear: 1996,
+        endYear: 2018,
+        trophiesWon: ['premier-league', 'fa-cup']
+      }
+    ]
+  },
+  'sir-alex-ferguson': {
+    id: 'sir-alex-ferguson',
+    name: 'Sir Alex Ferguson',
+    synonyms: ['fergie', 'sir alex', 'ferguson'],
+    nationality: 'Scotland',
+    stints: [
+      {
+        clubId: 'manchester-united',
+        startYear: 1986,
+        endYear: 2013,
+        trophiesWon: ['premier-league', 'fa-cup', 'uefa-champions-league']
+      }
+    ]
+  },
+  'pep-guardiola': {
+    id: 'pep-guardiola',
+    name: 'Pep Guardiola',
+    synonyms: ['guardiola', 'pep'],
+    nationality: 'Spain',
+    stints: [
+      {
+        clubId: 'manchester-city',
+        startYear: 2016,
+        trophiesWon: ['premier-league', 'fa-cup', 'uefa-champions-league']
+      }
+    ]
+  },
+  'brian-clough': {
+    id: 'brian-clough',
+    name: 'Brian Clough',
+    synonyms: ['cloughie', 'clough'],
+    nationality: 'England',
+    flagUrl: 'https://upload.wikimedia.org/wikipedia/en/b/be/Flag_of_England.svg',
+    stints: [
+      {
+        clubId: 'nottingham-forest',
+        startYear: 1975,
+        endYear: 1993,
+        trophiesWon: ['uefa-champions-league']
+      }
+    ]
+  },
+  'herbert-chapman': {
+    id: 'herbert-chapman',
+    name: 'Herbert Chapman',
+    synonyms: ['chapman'],
+    nationality: 'England',
+    flagUrl: 'https://upload.wikimedia.org/wikipedia/en/b/be/Flag_of_England.svg',
+    stints: [
+      {
+        clubId: 'arsenal',
+        startYear: 1925,
+        endYear: 1934,
+        trophiesWon: ['fa-cup', 'premier-league']
+      }
+    ]
+  },
+  'matt-busby': {
+    id: 'matt-busby',
+    name: 'Sir Matt Busby',
+    synonyms: ['busby', 'sir matt busby'],
+    nationality: 'Scotland',
+    stints: [
+      {
+        clubId: 'manchester-united',
+        startYear: 1945,
+        endYear: 1969,
+        trophiesWon: ['premier-league', 'fa-cup', 'uefa-champions-league']
+      }
+    ]
+  },
+  'mario-zagallo': {
+    id: 'mario-zagallo',
+    name: 'Mário Zagallo',
+    synonyms: ['zagallo', 'velho lobo'],
+    nationality: 'Brazil',
+    flagUrl: 'https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg',
+    stints: [
+      {
+        clubId: 'brazil',
+        startYear: 1970,
+        endYear: 1974
+      }
+    ]
+  }
+};
+
 export function buildFootballKnowledgeGraph(): FootballKnowledgeGraph {
   return {
     clubs: SEED_CLUBS,
     stadiums: SEED_STADIUMS,
     trophies: SEED_TROPHIES,
     nationalTeams: SEED_NATIONAL_TEAMS,
+    managers: SEED_MANAGERS,
     updatedAt: new Date().toISOString()
   };
 }
