@@ -18,5 +18,6 @@ export interface FootballerProfile {
   caps?: number;             // International caps / appearances (e.g., 106)
   internationalGoals?: number; // International goals scored (e.g., 49)
   teamsManaged?: string[];   // Clubs/national teams managed for player-managers
+  era?: string;              // Career era tag (e.g., "premierleague", "trending", "pioneers")
   lastScrapedAt?: string;    // ISO Timestamp of last scraper run
 }

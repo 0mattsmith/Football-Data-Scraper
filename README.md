@@ -36,6 +36,21 @@ npx --allow-git=all github:0mattsmith/Football-Data-Scraper scrape -e trending
 npx --allow-git=all github:0mattsmith/Football-Data-Scraper scrape -e all
 ```
 
+### 4. REST API Server with API Key Authentication 🔑
+Start a lightweight HTTP REST API server with custom API Keys so friends, family, or third-party apps can build football trivia games with a single line of code:
+
+```bash
+# Start API Server on port 3000 with custom API keys
+npx --allow-git=all github:0mattsmith/Football-Data-Scraper serve --port 3000 --api-keys "gb_live_demo_key,gb_live_brother_01"
+```
+
+#### API Endpoints (Requires `X-API-Key: <key>` Header or `?apiKey=<key>` Query Parameter)
+- `GET /v1/players?apiKey=gb_live_demo_key` — Return all verified legends & wonderkids
+- `GET /v1/players/random?era=premierleague&apiKey=gb_live_demo_key` — Random trivia player generator
+- `GET /v1/players/david-beckham?apiKey=gb_live_demo_key` — Get enriched profile for a specific player
+- `GET /v1/photo/cole-palmer?apiKey=gb_live_demo_key` — Live generic portrait photo scraper
+- `GET /v1/health` — Public health check & status (No API key required)
+
 ---
 
 ## 📦 Features & Capabilities

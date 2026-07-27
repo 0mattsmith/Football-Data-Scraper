@@ -8,6 +8,7 @@ import path from 'path';
 import { scrapeEraProfiles, FootballEra } from './scrapers/wikidataScraper';
 import { exportToLocalDb, syncToHalfTimeTrivia } from './syncer/exportDb';
 import { upsertToFirestore } from './syncer/firestoreUpsert';
+import { FootballApiServer } from './api/server';
 
 const program = new Command();
 
@@ -114,41 +115,14 @@ program
 
 program
   .command('serve')
-  .description('Start lightweight local REST API server for Half Time Trivia queries')
-  .option('-p, --port <number>', 'Port number to listen on', '4001')
-  .action((options) => {
-    const port = parseInt(options.port, 10) || 4001;
-    const server = http.createServer((req, res) => {
-      const parsedUrl = url.parse(req.url || '', true);
-      res.setHeader('Access-Control-Allow-Origin', '*');
-      res.setHeader('Content-Type', 'application/json');
-
-      if (parsedUrl.pathname === '/api/players' || parsedUrl.pathname === '/api/search') {
-        const queryName = (parsedUrl.query.q || parsedUrl.query.name || '').toString().toLowerCase();
-        const distFile = path.join(__dirname, '../dist/footballer-db.json');
-        let players = [];
-        if (fs.existsSync(distFile)) {
-          players = JSON.parse(fs.readFileSync(distFile, 'utf8'));
-        }
-
-        if (queryName) {
-          const filtered = players.filter((p: any) =>
-            p.name.toLowerCase().includes(queryName) ||
-            p.synonyms?.some((s: string) => s.includes(queryName))
-          );
-          res.end(JSON.stringify({ count: filtered.length, results: filtered }));
-        } else {
-          res.end(JSON.stringify({ count: players.length, results: players }));
-        }
-      } else {
-        res.statusCode = 404;
-        res.end(JSON.stringify({ error: 'Not found. Use /api/search?q=name' }));
-      }
-    });
-
-    server.listen(port, () => {
-      console.log(`[Server] Football Data Scraper REST API live on http://localhost:${port}`);
-    });
+  .description('Start REST API server for Half Time Trivia & third-party games with API Key authentication')
+  .option('-p, --port <number>', 'Port number to listen on', '3000')
+  .option('-k, --api-keys <keys>', 'Comma-separated valid API keys', 'gb_live_demo_key,gb_live_brother_01')
+  .action(async (options) => {
+    const port = parseInt(options.port, 10) || 3000;
+    const apiKeys = (options.apiKeys || '').split(',').map((k: string) => k.trim()).filter(Boolean);
+    const server = new FootballApiServer(port, apiKeys);
+    await server.start();
   });
 
 program.parse(process.argv);

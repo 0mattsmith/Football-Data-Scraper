@@ -38,13 +38,12 @@ var __importDefault = (this && this.__importDefault) || function (mod) {
 };
 Object.defineProperty(exports, "__esModule", { value: true });
 const commander_1 = require("commander");
-const http_1 = __importDefault(require("http"));
-const url_1 = __importDefault(require("url"));
 const fs_1 = __importDefault(require("fs"));
 const path_1 = __importDefault(require("path"));
 const wikidataScraper_1 = require("./scrapers/wikidataScraper");
 const exportDb_1 = require("./syncer/exportDb");
 const firestoreUpsert_1 = require("./syncer/firestoreUpsert");
+const server_1 = require("./api/server");
 const program = new commander_1.Command();
 program
     .name('football-data-scraper')
@@ -142,37 +141,13 @@ program
 });
 program
     .command('serve')
-    .description('Start lightweight local REST API server for Half Time Trivia queries')
-    .option('-p, --port <number>', 'Port number to listen on', '4001')
-    .action((options) => {
-    const port = parseInt(options.port, 10) || 4001;
-    const server = http_1.default.createServer((req, res) => {
-        const parsedUrl = url_1.default.parse(req.url || '', true);
-        res.setHeader('Access-Control-Allow-Origin', '*');
-        res.setHeader('Content-Type', 'application/json');
-        if (parsedUrl.pathname === '/api/players' || parsedUrl.pathname === '/api/search') {
-            const queryName = (parsedUrl.query.q || parsedUrl.query.name || '').toString().toLowerCase();
-            const distFile = path_1.default.join(__dirname, '../dist/footballer-db.json');
-            let players = [];
-            if (fs_1.default.existsSync(distFile)) {
-                players = JSON.parse(fs_1.default.readFileSync(distFile, 'utf8'));
-            }
-            if (queryName) {
-                const filtered = players.filter((p) => p.name.toLowerCase().includes(queryName) ||
-                    p.synonyms?.some((s) => s.includes(queryName)));
-                res.end(JSON.stringify({ count: filtered.length, results: filtered }));
-            }
-            else {
-                res.end(JSON.stringify({ count: players.length, results: players }));
-            }
-        }
-        else {
-            res.statusCode = 404;
-            res.end(JSON.stringify({ error: 'Not found. Use /api/search?q=name' }));
-        }
-    });
-    server.listen(port, () => {
-        console.log(`[Server] Football Data Scraper REST API live on http://localhost:${port}`);
-    });
+    .description('Start REST API server for Half Time Trivia & third-party games with API Key authentication')
+    .option('-p, --port <number>', 'Port number to listen on', '3000')
+    .option('-k, --api-keys <keys>', 'Comma-separated valid API keys', 'gb_live_demo_key,gb_live_brother_01')
+    .action(async (options) => {
+    const port = parseInt(options.port, 10) || 3000;
+    const apiKeys = (options.apiKeys || '').split(',').map((k) => k.trim()).filter(Boolean);
+    const server = new server_1.FootballApiServer(port, apiKeys);
+    await server.start();
 });
 program.parse(process.argv);
