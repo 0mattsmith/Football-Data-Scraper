@@ -38,7 +38,7 @@
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Fredrikstad_Fotballklubb_v_Crystal_Palace_FC%2C_28_August_2025_B06_%28cropped%29.jpg",
     "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Fredrikstad_Fotballklubb_v_Crystal_Palace_FC%2C_28_August_2025_B06_%28cropped%29.jpg/250px-Fredrikstad_Fotballklubb_v_Crystal_Palace_FC%2C_28_August_2025_B06_%28cropped%29.jpg",
     "wikiUrl": "https://en.wikipedia.org/wiki/Adam_Wharton",
-    "lastScrapedAt": "2026-07-27T19:43:05.320Z"
+    "lastScrapedAt": "2026-07-27T22:27:34.061Z"
   },
   {
     "id": "alejandro-garnacho",
@@ -77,9 +77,181 @@
     ],
     "partners": [],
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Alejandro_Garnacho_7_August_2022_%28cropped%29.jpg",
-    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Alejandro_Garnacho_7_August_2022_%28cropped%29.jpg/330px-Alejandro_Garnacho_7_August_2022_%28cropped%29.jpg",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Alejandro_Garnacho_7_August_2022_%28cropped%29.jpg/250px-Alejandro_Garnacho_7_August_2022_%28cropped%29.jpg",
     "wikiUrl": "https://en.wikipedia.org/wiki/Alejandro_Garnacho",
-    "lastScrapedAt": "2026-07-27T19:43:04.703Z"
+    "lastScrapedAt": "2026-07-27T22:27:28.259Z"
+  },
+  {
+    "id": "alexis-mac-allister",
+    "name": "Alexis Mac Allister",
+    "synonyms": [
+      "alexis mac allister",
+      "allister",
+      "a. allister",
+      "a allister",
+      "mac allister"
+    ],
+    "nationality": "England",
+    "position": "Midfielder",
+    "shirtNumber": "#10",
+    "caps": 54,
+    "internationalGoals": 7,
+    "clubs": [
+      "Santa Rosa, La Pampa",
+      "Club Social y Deportivo Parque",
+      "Argentinos Juniors",
+      "Brighton & Hove Albion",
+      "Boca Juniors",
+      "Argentina Olympic",
+      "2022 Qatar",
+      "2026 Canada–Mexico–US",
+      "2024 United States",
+      "2022 England",
+      "2020 Colombia",
+      "Liverpool"
+    ],
+    "managers": [],
+    "teamsManaged": [],
+    "trophies": [
+      "World Cup",
+      "Champions League",
+      "Premier League",
+      "FA Cup",
+      "Ballon d'Or",
+      "Copa America",
+      "UEFA Cup",
+      "Europa League"
+    ],
+    "leagues": [
+      "Premier League"
+    ],
+    "partners": [],
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/d/db/Alexis_Mac_Allister_Argentina_v_Spain_19_July_2026-162_%28cropped%29.jpg",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Alexis_Mac_Allister_Argentina_v_Spain_19_July_2026-162_%28cropped%29.jpg/250px-Alexis_Mac_Allister_Argentina_v_Spain_19_July_2026-162_%28cropped%29.jpg",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Alexis_Mac_Allister",
+    "lastScrapedAt": "2026-07-27T22:27:31.838Z"
+  },
+  {
+    "id": "andrea-pirlo",
+    "name": "Andrea Pirlo",
+    "synonyms": [
+      "andrea pirlo",
+      "pirlo",
+      "a. pirlo",
+      "a pirlo"
+    ],
+    "nationality": "Brazil",
+    "position": "Midfielder",
+    "caps": 116,
+    "internationalGoals": 13,
+    "clubs": [
+      "Dubai United",
+      "Inter Milan",
+      "AC Milan",
+      "New York City FC",
+      "Italy U15",
+      "Italy U16",
+      "Italy U17",
+      "Italy U18",
+      "Italy U21",
+      "Italy Olympic",
+      "Juventus"
+    ],
+    "managers": [],
+    "teamsManaged": [
+      "Juventus U23",
+      "Juventus",
+      "Fatih Karagümrük",
+      "Dubai United",
+      "2006 Germany",
+      "2012 Poland–Ukraine",
+      "2013 Brazil",
+      "2004 Athens",
+      "2000 Slovakia",
+      "2002 Switzerland",
+      "Germany",
+      "Brazil"
+    ],
+    "trophies": [
+      "World Cup",
+      "Champions League",
+      "FA Cup",
+      "Ballon d'Or",
+      "Serie A",
+      "Euros",
+      "UEFA Cup",
+      "Europa League",
+      "FIFA Club World Cup",
+      "Intercontinental Cup"
+    ],
+    "leagues": [
+      "Premier League"
+    ],
+    "partners": [],
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6e/20150616_-_Portugal_-_Italie_-_Gen%C3%A8ve_-_Andrea_Pirlo_%28cropped%29.jpg",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/20150616_-_Portugal_-_Italie_-_Gen%C3%A8ve_-_Andrea_Pirlo_%28cropped%29.jpg/330px-20150616_-_Portugal_-_Italie_-_Gen%C3%A8ve_-_Andrea_Pirlo_%28cropped%29.jpg",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Andrea_Pirlo",
+    "lastScrapedAt": "2026-07-27T22:27:19.573Z"
+  },
+  {
+    "id": "andres-iniesta",
+    "name": "Andres Iniesta",
+    "synonyms": [
+      "andres iniesta",
+      "iniesta",
+      "a. iniesta",
+      "a iniesta"
+    ],
+    "nationality": "England",
+    "position": "Midfielder",
+    "caps": 131,
+    "internationalGoals": 13,
+    "clubs": [
+      "Gulf United",
+      "Barcelona B",
+      "Vissel Kobe",
+      "Spain U15",
+      "Spain U16",
+      "Spain U17",
+      "Spain U19",
+      "Spain U20",
+      "Spain U21",
+      "Barcelona"
+    ],
+    "managers": [],
+    "teamsManaged": [
+      "Gulf United",
+      "2010 South Africa",
+      "2008 Austria–Switzerland",
+      "2012 Poland–Ukraine",
+      "2002 Norway",
+      "2001 England",
+      "2013 Brazil",
+      "2003 United Arab Emirates",
+      "England",
+      "Brazil"
+    ],
+    "trophies": [
+      "World Cup",
+      "Champions League",
+      "European Cup",
+      "Premier League",
+      "FA Cup",
+      "League Cup",
+      "Ballon d'Or",
+      "La Liga",
+      "Euros",
+      "UEFA Cup",
+      "FIFA Club World Cup"
+    ],
+    "leagues": [
+      "Premier League"
+    ],
+    "partners": [],
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/57/Andr%C3%A9s_Iniesta_2019.jpg",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Andr%C3%A9s_Iniesta_2019.jpg/330px-Andr%C3%A9s_Iniesta_2019.jpg",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Andres_Iniesta",
+    "lastScrapedAt": "2026-07-27T22:27:15.185Z"
   },
   {
     "id": "archie-gray",
@@ -122,7 +294,7 @@
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Rangers_v_Tottenham_Hotspur_-_54202663229_%28Archie_Gray%29.jpg",
     "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Rangers_v_Tottenham_Hotspur_-_54202663229_%28Archie_Gray%29.jpg/330px-Rangers_v_Tottenham_Hotspur_-_54202663229_%28Archie_Gray%29.jpg",
     "wikiUrl": "https://en.wikipedia.org/wiki/Archie_Gray",
-    "lastScrapedAt": "2026-07-27T19:43:05.456Z"
+    "lastScrapedAt": "2026-07-27T22:27:34.292Z"
   },
   {
     "id": "arda-g-ler",
@@ -157,77 +329,336 @@
     ],
     "partners": [],
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Arda_G%C3%BCler_2025.jpg",
-    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Arda_G%C3%BCler_2025.jpg/330px-Arda_G%C3%BCler_2025.jpg",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Arda_G%C3%BCler_2025.jpg/250px-Arda_G%C3%BCler_2025.jpg",
     "wikiUrl": "https://en.wikipedia.org/wiki/Arda_G%C3%BCler",
-    "lastScrapedAt": "2026-07-27T19:43:05.071Z"
+    "lastScrapedAt": "2026-07-27T22:27:33.755Z"
   },
   {
-    "id": "atl-tico-madrid",
-    "name": "Atlético Madrid",
+    "id": "arthur-wharton",
+    "name": "Arthur Wharton",
     "synonyms": [
-      "atletico madrid",
-      "madrid",
-      "a. madrid",
-      "a madrid"
+      "arthur wharton",
+      "wharton",
+      "a. wharton",
+      "a wharton"
     ],
     "nationality": "England",
     "clubs": [
-      "Estadio Riyadh Air Metropolitano",
-      "Apollo Sports Capital",
-      "Quantum Pacific Group",
-      "Enrique Cerezo",
-      "Diego Simeone",
-      "La Liga",
-      "Home colours",
-      "Away colours",
-      "Current season",
-      "Real Madrid"
+      "Gold Coast",
+      "Preston North End",
+      "Rotherham Town",
+      "Sheffield United",
+      "Stalybridge Rovers",
+      "Ashton North End",
+      "Stockport County"
     ],
     "managers": [],
     "teamsManaged": [],
     "trophies": [
-      "World Cup",
-      "Champions League",
-      "European Cup",
-      "Premier League",
-      "FA Cup",
-      "Ballon d'Or",
-      "La Liga",
-      "UEFA Cup",
-      "Europa League",
-      "FIFA Club World Cup",
-      "Intercontinental Cup"
+      "FA Cup"
     ],
     "leagues": [
       "Premier League"
     ],
     "partners": [],
-    "photoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/Atletico_Madrid_Logo_2024.svg/330px-Atletico_Madrid_Logo_2024.svg.png",
-    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/Atletico_Madrid_Logo_2024.svg/330px-Atletico_Madrid_Logo_2024.svg.png",
-    "wikiUrl": "https://en.wikipedia.org/wiki/Atl%C3%A9tico_Madrid",
-    "lastScrapedAt": "2026-07-27T19:43:13.864Z"
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Arthur_Wharton_c1896.jpg",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Arthur_Wharton_c1896.jpg/330px-Arthur_Wharton_c1896.jpg",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Arthur_Wharton",
+    "lastScrapedAt": "2026-07-27T22:26:37.694Z"
   },
   {
-    "id": "bayern-munich",
-    "name": "Bayern Munich",
+    "id": "billy-wright",
+    "name": "Billy Wright",
     "synonyms": [
-      "bayern munich",
-      "munich",
-      "b. munich",
-      "b munich"
+      "billy wright",
+      "wright",
+      "b. wright",
+      "b wright"
     ],
     "nationality": "England",
     "clubs": [
-      "e. V.",
-      "Allianz Arena",
-      "Herbert Hainer",
-      "Jan-Christian Dreesen",
-      "Vincent Kompany",
-      "Home colours",
-      "Away colours",
-      "Current season",
-      "Bayern Munich",
-      "Borussia Dortmund"
+      "Manchester United",
+      "Tottenham Hotspur",
+      "Arsenal",
+      "Chelsea",
+      "Liverpool",
+      "Manchester City"
+    ],
+    "managers": [],
+    "trophies": [
+      "Premier League",
+      "Champions League",
+      "World Cup"
+    ],
+    "leagues": [
+      "Premier League"
+    ],
+    "partners": [],
+    "lastScrapedAt": "2026-07-27T22:26:38.269Z"
+  },
+  {
+    "id": "bobby-charlton",
+    "name": "Bobby Charlton",
+    "synonyms": [
+      "bobby charlton",
+      "charlton",
+      "b. charlton",
+      "b charlton"
+    ],
+    "nationality": "England",
+    "shirtNumber": "#9",
+    "caps": 106,
+    "internationalGoals": 49,
+    "clubs": [
+      "Manchester United",
+      "Preston North End",
+      "Newcastle KB United",
+      "Perth Azzurri",
+      "Blacktown City",
+      "England Schoolboys",
+      "England Youth",
+      "England U23",
+      "Chelsea",
+      "Leeds United",
+      "Newcastle United"
+    ],
+    "managers": [],
+    "teamsManaged": [
+      "Preston North End",
+      "Wigan Athletic",
+      "1966 England",
+      "1968 Italy",
+      "England",
+      "Italy"
+    ],
+    "trophies": [
+      "World Cup",
+      "Champions League",
+      "European Cup",
+      "Premier League",
+      "FA Cup",
+      "Ballon d'Or"
+    ],
+    "leagues": [
+      "Premier League"
+    ],
+    "partners": [],
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/09/LondonHouseAmsterdam1966_Bobby_Charlton.jpg",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/LondonHouseAmsterdam1966_Bobby_Charlton.jpg/250px-LondonHouseAmsterdam1966_Bobby_Charlton.jpg",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Bobby_Charlton",
+    "lastScrapedAt": "2026-07-27T22:26:41.474Z"
+  },
+  {
+    "id": "bobby-moore",
+    "name": "Bobby Moore",
+    "synonyms": [
+      "bobby moore",
+      "moore",
+      "b. moore",
+      "b moore"
+    ],
+    "nationality": "England",
+    "position": "Defender",
+    "shirtNumber": "#6",
+    "caps": 108,
+    "internationalGoals": 2,
+    "clubs": [
+      "West Ham United",
+      "San Antonio Thunder",
+      "Seattle Sounders",
+      "Herning Fremad",
+      "Carolina Lightnin'",
+      "England U23",
+      "Chelsea"
+    ],
+    "managers": [],
+    "teamsManaged": [
+      "Oxford City",
+      "Southend United"
+    ],
+    "trophies": [
+      "World Cup",
+      "European Cup",
+      "FA Cup",
+      "League Cup",
+      "Ballon d'Or",
+      "Euros"
+    ],
+    "leagues": [
+      "Premier League"
+    ],
+    "partners": [],
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Bobby_moore_elgrafico_1970.jpg",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Bobby_moore_elgrafico_1970.jpg/250px-Bobby_moore_elgrafico_1970.jpg",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Bobby_Moore",
+    "lastScrapedAt": "2026-07-27T22:26:41.781Z"
+  },
+  {
+    "id": "bruno-fernandes",
+    "name": "Bruno Fernandes",
+    "synonyms": [
+      "bruno fernandes",
+      "fernandes",
+      "b. fernandes",
+      "b fernandes"
+    ],
+    "nationality": "Germany",
+    "position": "Attacking midfielder",
+    "shirtNumber": "#8",
+    "caps": 94,
+    "internationalGoals": 29,
+    "clubs": [
+      "Attacking midfielder",
+      "Manchester United",
+      "Sporting CP",
+      "Portugal U19",
+      "Portugal U20",
+      "Portugal U21",
+      "Portugal Olympic",
+      "2019 Portugal",
+      "2025 Germany"
+    ],
+    "managers": [],
+    "teamsManaged": [],
+    "trophies": [
+      "World Cup",
+      "Champions League",
+      "Premier League",
+      "FA Cup",
+      "La Liga",
+      "Serie A",
+      "Bundesliga",
+      "UEFA Cup",
+      "Europa League"
+    ],
+    "leagues": [
+      "Premier League"
+    ],
+    "partners": [],
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Bruno_Fernandes_USMNT_v_Portugal_Mar_31_2026-27_%28cropped%29.jpg",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Bruno_Fernandes_USMNT_v_Portugal_Mar_31_2026-27_%28cropped%29.jpg/250px-Bruno_Fernandes_USMNT_v_Portugal_Mar_31_2026-27_%28cropped%29.jpg",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Bruno_Fernandes",
+    "lastScrapedAt": "2026-07-27T22:27:27.140Z"
+  },
+  {
+    "id": "bryan-robson",
+    "name": "Bryan Robson",
+    "synonyms": [
+      "bryan robson",
+      "robson",
+      "b. robson",
+      "b robson"
+    ],
+    "nationality": "England",
+    "position": "Midfielder",
+    "caps": 90,
+    "internationalGoals": 26,
+    "clubs": [
+      "Manchester United",
+      "West Bromwich Albion",
+      "England Youth",
+      "England U21",
+      "England B",
+      "Newcastle United"
+    ],
+    "managers": [],
+    "teamsManaged": [
+      "Bradford City",
+      "West Bromwich Albion",
+      "Sheffield United",
+      "Thailand U23"
+    ],
+    "trophies": [
+      "World Cup",
+      "Champions League",
+      "European Cup",
+      "Premier League",
+      "FA Cup",
+      "League Cup",
+      "Euros",
+      "UEFA Cup"
+    ],
+    "leagues": [
+      "Premier League"
+    ],
+    "partners": [],
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Bryan_Robson_Thailand_2009-11-01_%282%29.jpg",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Bryan_Robson_Thailand_2009-11-01_%282%29.jpg/250px-Bryan_Robson_Thailand_2009-11-01_%282%29.jpg",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Bryan_Robson",
+    "lastScrapedAt": "2026-07-27T22:26:47.937Z"
+  },
+  {
+    "id": "bukayo-saka",
+    "name": "Bukayo Saka",
+    "synonyms": [
+      "bukayo saka",
+      "saka",
+      "b. saka",
+      "b saka"
+    ],
+    "nationality": "England",
+    "position": "Right winger",
+    "shirtNumber": "#7",
+    "caps": 56,
+    "internationalGoals": 17,
+    "clubs": [
+      "Right winger",
+      "England U16",
+      "England U17",
+      "England U18",
+      "England U19",
+      "England U21",
+      "2026 North America",
+      "2020 Europe",
+      "2024 Germany",
+      "Arsenal",
+      "Celtic"
+    ],
+    "managers": [],
+    "teamsManaged": [],
+    "trophies": [
+      "World Cup",
+      "Champions League",
+      "Premier League",
+      "FA Cup",
+      "Euros",
+      "Europa League"
+    ],
+    "leagues": [
+      "Premier League"
+    ],
+    "partners": [],
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Bukayo_Saka_England_v_Panama_27_June_26-108_%28cropped%29.jpg",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Bukayo_Saka_England_v_Panama_27_June_26-108_%28cropped%29.jpg/330px-Bukayo_Saka_England_v_Panama_27_June_26-108_%28cropped%29.jpg",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Bukayo_Saka",
+    "lastScrapedAt": "2026-07-27T22:27:24.244Z"
+  },
+  {
+    "id": "carles-puyol",
+    "name": "Carles Puyol",
+    "synonyms": [
+      "carles puyol",
+      "puyol",
+      "c. puyol",
+      "c puyol"
+    ],
+    "nationality": "Spain",
+    "position": "Centre-back",
+    "caps": 100,
+    "internationalGoals": 3,
+    "clubs": [
+      "2020 Goya Awards",
+      "La Pobla de Segur",
+      "Barcelona C",
+      "Barcelona B",
+      "Spain U18",
+      "Spain U21",
+      "Spain U23",
+      "2010 South Africa",
+      "2008 Austria–Switzerland",
+      "2000 Sydney",
+      "2009 South Africa",
+      "Barcelona"
     ],
     "managers": [],
     "teamsManaged": [],
@@ -235,68 +666,134 @@
       "World Cup",
       "Champions League",
       "European Cup",
-      "Premier League",
       "FA Cup",
-      "Ballon d'Or",
-      "Bundesliga",
+      "La Liga",
       "Euros",
       "UEFA Cup",
-      "Europa League",
-      "FIFA Club World Cup",
-      "Intercontinental Cup"
+      "FIFA Club World Cup"
     ],
     "leagues": [
       "Premier League"
     ],
     "partners": [],
-    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg/960px-FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg.png",
-    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg/330px-FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg.png",
-    "wikiUrl": "https://en.wikipedia.org/wiki/Bayern_Munich",
-    "lastScrapedAt": "2026-07-27T19:43:16.452Z"
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/65/Premios_Goya_2020_-_Carles_Pujol.jpg",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Premios_Goya_2020_-_Carles_Pujol.jpg/330px-Premios_Goya_2020_-_Carles_Pujol.jpg",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Carles_Puyol",
+    "lastScrapedAt": "2026-07-27T22:27:16.445Z"
   },
   {
-    "id": "borussia-dortmund",
-    "name": "Borussia Dortmund",
+    "id": "charles-alcock",
+    "name": "Charles Alcock",
     "synonyms": [
-      "borussia dortmund",
-      "dortmund",
-      "b. dortmund",
-      "b dortmund"
+      "charles alcock",
+      "alcock",
+      "c. alcock",
+      "c alcock"
     ],
     "nationality": "England",
     "clubs": [
-      "Signal Iduna Park",
-      "Hans-Joachim Watzke",
-      "Lars Ricken",
-      "Niko Kovač",
-      "Home colours",
-      "Current season",
-      "Bayern Munich",
-      "Borussia Dortmund"
+      "Manchester United",
+      "Tottenham Hotspur",
+      "Arsenal",
+      "Chelsea",
+      "Liverpool",
+      "Manchester City"
+    ],
+    "managers": [],
+    "trophies": [
+      "Premier League",
+      "Champions League",
+      "World Cup"
+    ],
+    "leagues": [
+      "Premier League"
+    ],
+    "partners": [],
+    "lastScrapedAt": "2026-07-27T22:26:37.500Z"
+  },
+  {
+    "id": "christian-eriksen",
+    "name": "Christian Eriksen",
+    "synonyms": [
+      "christian eriksen",
+      "eriksen",
+      "c. eriksen",
+      "c eriksen"
+    ],
+    "nationality": "Denmark",
+    "position": "Midfielder",
+    "shirtNumber": "#24",
+    "caps": 151,
+    "internationalGoals": 46,
+    "clubs": [
+      "Tottenham Hotspur",
+      "VfL Wolfsburg",
+      "Middelfart G&BK",
+      "Inter Milan",
+      "Manchester United",
+      "Denmark U17",
+      "Denmark U18",
+      "Denmark U19",
+      "Denmark U21",
+      "Ajax",
+      "Spurs"
     ],
     "managers": [],
     "teamsManaged": [],
     "trophies": [
       "World Cup",
       "Champions League",
-      "European Cup",
       "Premier League",
       "FA Cup",
-      "Ballon d'Or",
+      "League Cup",
+      "Serie A",
       "Bundesliga",
+      "Eredivisie",
       "UEFA Cup",
-      "Europa League",
-      "FIFA Club World Cup",
-      "Intercontinental Cup"
+      "Europa League"
     ],
     "leagues": [
       "Premier League"
     ],
     "partners": [],
-    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/960px-Borussia_Dortmund_logo.svg.png",
-    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/330px-Borussia_Dortmund_logo.svg.png",
-    "wikiUrl": "https://en.wikipedia.org/wiki/Borussia_Dortmund",
-    "lastScrapedAt": "2026-07-27T19:43:14.957Z"
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d8/EriksenTottenham2016%28cropped%29_2.jpg",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d8/EriksenTottenham2016%28cropped%29_2.jpg",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Christian_Eriksen",
+    "lastScrapedAt": "2026-07-27T22:26:53.634Z"
+  },
+  {
+    "id": "cliff-bastin",
+    "name": "Cliff Bastin",
+    "synonyms": [
+      "cliff bastin",
+      "bastin",
+      "c. bastin",
+      "c bastin"
+    ],
+    "nationality": "England",
+    "position": "Left winger",
+    "caps": 21,
+    "internationalGoals": 12,
+    "clubs": [
+      "Left winger",
+      "Exeter City",
+      "Arsenal",
+      "Everton"
+    ],
+    "managers": [],
+    "teamsManaged": [],
+    "trophies": [
+      "World Cup",
+      "FA Cup"
+    ],
+    "leagues": [
+      "Premier League"
+    ],
+    "partners": [],
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/en/3/31/Cliff_Bastin.jpg",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/3/31/Cliff_Bastin.jpg",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Cliff_Bastin",
+    "lastScrapedAt": "2026-07-27T22:26:40.002Z"
   },
   {
     "id": "cole-palmer",
@@ -340,7 +837,7 @@
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Cole_Palmer_2025_FIFA_Club_World_Cup_Final.jpg",
     "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Cole_Palmer_2025_FIFA_Club_World_Cup_Final.jpg",
     "wikiUrl": "https://en.wikipedia.org/wiki/Cole_Palmer",
-    "lastScrapedAt": "2026-07-27T19:43:04.467Z"
+    "lastScrapedAt": "2026-07-27T22:27:25.779Z"
   },
   {
     "id": "conor-bradley",
@@ -380,7 +877,69 @@
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Conor_Bradley_in_2021.jpg",
     "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Conor_Bradley_in_2021.jpg/330px-Conor_Bradley_in_2021.jpg",
     "wikiUrl": "https://en.wikipedia.org/wiki/Conor_Bradley",
-    "lastScrapedAt": "2026-07-27T19:43:08.924Z"
+    "lastScrapedAt": "2026-07-27T22:27:36.530Z"
+  },
+  {
+    "id": "cristiano-ronaldo",
+    "name": "Cristiano Ronaldo",
+    "synonyms": [
+      "cristiano ronaldo",
+      "ronaldo",
+      "c. ronaldo",
+      "c ronaldo",
+      "cr7",
+      "cristiano"
+    ],
+    "nationality": "France",
+    "position": "Forward",
+    "shirtNumber": "#7",
+    "caps": 233,
+    "internationalGoals": 146,
+    "clubs": [
+      "[note 1]",
+      "Sporting CP",
+      "Sporting CP B",
+      "Manchester United",
+      "Real Madrid",
+      "Portugal U15",
+      "Portugal U17",
+      "Portugal U20",
+      "Portugal U21",
+      "Portugal U23",
+      "2016 France",
+      "2004 Portugal",
+      "2012 Poland–Ukraine",
+      "[note 2]",
+      "2017 Russia",
+      "2019 Portugal",
+      "2025 Germany",
+      "Juventus"
+    ],
+    "managers": [],
+    "teamsManaged": [],
+    "trophies": [
+      "World Cup",
+      "Champions League",
+      "European Cup",
+      "Premier League",
+      "FA Cup",
+      "League Cup",
+      "Ballon d'Or",
+      "La Liga",
+      "Serie A",
+      "Euros",
+      "UEFA Cup",
+      "Europa League",
+      "FIFA Club World Cup"
+    ],
+    "leagues": [
+      "Premier League"
+    ],
+    "partners": [],
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/2/26/Cristiano_Ronaldo_Croatia_v_Portugal_2_July_2026-075_%28cropped%29.jpg",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Cristiano_Ronaldo_Croatia_v_Portugal_2_July_2026-075_%28cropped%29.jpg/250px-Cristiano_Ronaldo_Croatia_v_Portugal_2_July_2026-075_%28cropped%29.jpg",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Cristiano_Ronaldo",
+    "lastScrapedAt": "2026-07-27T22:26:55.268Z"
   },
   {
     "id": "dani-olmo",
@@ -405,7 +964,7 @@
       "Spain U18",
       "Spain U21",
       "Spain U23",
-      "2026 North America",
+      "2026 Canada–Mexico–US",
       "2024 Germany",
       "2020 Europe",
       "2023 Netherlands",
@@ -429,9 +988,438 @@
     ],
     "partners": [],
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/8/83/Dani_Olmo_France_v_Spain_7.24.26-176_%28cropped%29.jpg",
-    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Dani_Olmo_France_v_Spain_7.24.26-176_%28cropped%29.jpg/330px-Dani_Olmo_France_v_Spain_7.24.26-176_%28cropped%29.jpg",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Dani_Olmo_France_v_Spain_7.24.26-176_%28cropped%29.jpg/250px-Dani_Olmo_France_v_Spain_7.24.26-176_%28cropped%29.jpg",
     "wikiUrl": "https://en.wikipedia.org/wiki/Dani_Olmo",
-    "lastScrapedAt": "2026-07-27T19:43:13.378Z"
+    "lastScrapedAt": "2026-07-27T22:27:38.600Z"
+  },
+  {
+    "id": "david-beckham",
+    "name": "David Beckham",
+    "synonyms": [
+      "david beckham",
+      "beckham",
+      "d. beckham",
+      "d beckham"
+    ],
+    "nationality": "England",
+    "position": "Midfielder",
+    "shirtNumber": "#7",
+    "caps": 115,
+    "internationalGoals": 17,
+    "clubs": [
+      "Tottenham Hotspur",
+      "Brimsdown Rovers",
+      "Manchester United",
+      "Preston North End",
+      "Real Madrid",
+      "LA Galaxy",
+      "AC Milan",
+      "Paris Saint-Germain",
+      "England U18",
+      "England U21",
+      "Spurs"
+    ],
+    "managers": [],
+    "teamsManaged": [],
+    "trophies": [
+      "World Cup",
+      "Champions League",
+      "Premier League",
+      "FA Cup",
+      "League Cup",
+      "Ballon d'Or",
+      "La Liga",
+      "Serie A",
+      "Ligue 1",
+      "Euros",
+      "UEFA Cup",
+      "Intercontinental Cup"
+    ],
+    "leagues": [
+      "Premier League"
+    ],
+    "partners": [],
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/73/David_Beckham_UNICEF_%28cropped2%29.jpg",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/David_Beckham_UNICEF_%28cropped2%29.jpg/250px-David_Beckham_UNICEF_%28cropped2%29.jpg",
+    "wikiUrl": "https://en.wikipedia.org/wiki/David_Beckham",
+    "lastScrapedAt": "2026-07-27T22:26:57.271Z"
+  },
+  {
+    "id": "david-silva",
+    "name": "David Silva",
+    "synonyms": [
+      "david silva",
+      "silva",
+      "d. silva",
+      "d silva"
+    ],
+    "nationality": "Spain",
+    "position": "Midfielder",
+    "caps": 125,
+    "internationalGoals": 35,
+    "clubs": [
+      "San Fernando",
+      "Valencia B",
+      "Manchester City",
+      "Real Sociedad",
+      "Spain U16",
+      "Spain U17",
+      "Spain U19",
+      "Spain U20",
+      "Spain U21"
+    ],
+    "managers": [],
+    "teamsManaged": [],
+    "trophies": [
+      "World Cup",
+      "Champions League",
+      "Premier League",
+      "FA Cup",
+      "League Cup",
+      "La Liga",
+      "Euros",
+      "UEFA Cup",
+      "Europa League"
+    ],
+    "leagues": [
+      "Premier League"
+    ],
+    "partners": [],
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a6/David_Silva_2017.jpg",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/David_Silva_2017.jpg/330px-David_Silva_2017.jpg",
+    "wikiUrl": "https://en.wikipedia.org/wiki/David_Silva",
+    "lastScrapedAt": "2026-07-27T22:27:10.031Z"
+  },
+  {
+    "id": "declan-rice",
+    "name": "Declan Rice",
+    "synonyms": [
+      "declan rice",
+      "rice",
+      "d. rice",
+      "d rice"
+    ],
+    "nationality": "England",
+    "position": "Midfielder",
+    "shirtNumber": "#41",
+    "caps": 80,
+    "internationalGoals": 8,
+    "clubs": [
+      "Kingston upon Thames",
+      "West Ham United",
+      "Republic of Ireland U17",
+      "Republic of Ireland U19",
+      "Republic of Ireland U21",
+      "Republic of Ireland",
+      "2026 Canada–Mexico–US",
+      "2020 Europe",
+      "2024 Germany",
+      "2019 Portugal",
+      "Arsenal",
+      "Chelsea"
+    ],
+    "managers": [],
+    "teamsManaged": [],
+    "trophies": [
+      "World Cup",
+      "Champions League",
+      "Premier League",
+      "FA Cup",
+      "League Cup",
+      "Ballon d'Or",
+      "Europa League"
+    ],
+    "leagues": [
+      "Premier League"
+    ],
+    "partners": [],
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Declan_Rice_England_v_Ghana_23_June_2026-150.jpg",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Declan_Rice_England_v_Ghana_23_June_2026-150.jpg/250px-Declan_Rice_England_v_Ghana_23_June_2026-150.jpg",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Declan_Rice",
+    "lastScrapedAt": "2026-07-27T22:27:26.741Z"
+  },
+  {
+    "id": "denis-law",
+    "name": "Denis Law",
+    "synonyms": [
+      "denis law",
+      "d. law",
+      "d law"
+    ],
+    "nationality": "England",
+    "position": "Centre forward",
+    "clubs": [
+      "Centre forward",
+      "Huddersfield Town",
+      "Manchester City",
+      "Manchester United",
+      "Scotland U23"
+    ],
+    "managers": [],
+    "teamsManaged": [],
+    "trophies": [
+      "World Cup",
+      "Champions League",
+      "European Cup",
+      "FA Cup",
+      "League Cup",
+      "Ballon d'Or",
+      "Serie A",
+      "UEFA Cup",
+      "Intercontinental Cup"
+    ],
+    "leagues": [
+      "Premier League"
+    ],
+    "partners": [],
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Denis_Law_%284x5_cropped%29.jpg",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Denis_Law_%284x5_cropped%29.jpg/250px-Denis_Law_%284x5_cropped%29.jpg",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Denis_Law",
+    "lastScrapedAt": "2026-07-27T22:26:42.372Z"
+  },
+  {
+    "id": "dennis-bergkamp",
+    "name": "Dennis Bergkamp",
+    "synonyms": [
+      "dennis bergkamp",
+      "bergkamp",
+      "d. bergkamp",
+      "d bergkamp"
+    ],
+    "nationality": "Netherlands",
+    "shirtNumber": "#10",
+    "caps": 79,
+    "internationalGoals": 37,
+    "clubs": [
+      "attacking midfielder",
+      "Inter Milan",
+      "Netherlands U21",
+      "Arsenal",
+      "Ajax",
+      "Newcastle United"
+    ],
+    "managers": [],
+    "teamsManaged": [],
+    "trophies": [
+      "World Cup",
+      "Champions League",
+      "European Cup",
+      "Premier League",
+      "FA Cup",
+      "League Cup",
+      "Ballon d'Or",
+      "Serie A",
+      "Eredivisie",
+      "UEFA Cup",
+      "Europa League"
+    ],
+    "leagues": [
+      "Premier League"
+    ],
+    "partners": [],
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/75/Dennis_Bergkamp_2014_%28cropped%29.jpg",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Dennis_Bergkamp_2014_%28cropped%29.jpg/250px-Dennis_Bergkamp_2014_%28cropped%29.jpg",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Dennis_Bergkamp",
+    "lastScrapedAt": "2026-07-27T22:26:59.717Z"
+  },
+  {
+    "id": "didier-drogba",
+    "name": "Didier Drogba",
+    "synonyms": [
+      "didier drogba",
+      "drogba",
+      "d. drogba",
+      "d drogba"
+    ],
+    "nationality": "England",
+    "position": "Striker",
+    "shirtNumber": "#11",
+    "clubs": [
+      "Le Mans",
+      "Shanghai Shenhua",
+      "Montreal Impact",
+      "Phoenix Rising",
+      "Ivory Coast",
+      "2006 Egypt",
+      "2012 Equatorial Guinea–Gabon",
+      "Chelsea",
+      "Liverpool",
+      "Bayern Munich"
+    ],
+    "managers": [],
+    "teamsManaged": [],
+    "trophies": [
+      "World Cup",
+      "Champions League",
+      "European Cup",
+      "Premier League",
+      "FA Cup",
+      "League Cup",
+      "Ballon d'Or",
+      "Ligue 1",
+      "Euros",
+      "UEFA Cup",
+      "Europa League"
+    ],
+    "leagues": [
+      "Premier League"
+    ],
+    "partners": [],
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/77/Didier_Drogba_%282019%29_%28cropped2%29.jpg",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Didier_Drogba_%282019%29_%28cropped2%29.jpg/250px-Didier_Drogba_%282019%29_%28cropped2%29.jpg",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Didier_Drogba",
+    "lastScrapedAt": "2026-07-27T22:27:02.428Z"
+  },
+  {
+    "id": "diego-maradona",
+    "name": "Diego Maradona",
+    "synonyms": [
+      "diego maradona",
+      "maradona",
+      "d. maradona",
+      "d maradona"
+    ],
+    "nationality": "Brazil",
+    "shirtNumber": "#10",
+    "caps": 91,
+    "internationalGoals": 34,
+    "clubs": [
+      "1986 FIFA World Cup",
+      "Dique Luján",
+      "Attacking midfielder",
+      "second striker",
+      "Argentinos Juniors",
+      "Boca Juniors",
+      "Newell's Old Boys",
+      "Argentina U20",
+      "Barcelona"
+    ],
+    "managers": [],
+    "teamsManaged": [
+      "Deportivo Mandiyú",
+      "Racing Club",
+      "Argentina",
+      "Dorados de Sinaloa",
+      "Gimnasia de La Plata",
+      "1986 Mexico",
+      "1990 Italy",
+      "1989 Brazil",
+      "1993 Argentina",
+      "1979 Japan",
+      "1979 Uruguay",
+      "Italy",
+      "Brazil"
+    ],
+    "trophies": [
+      "World Cup",
+      "Champions League",
+      "European Cup",
+      "Premier League",
+      "FA Cup",
+      "Ballon d'Or",
+      "La Liga",
+      "Serie A",
+      "Copa America",
+      "Euros",
+      "UEFA Cup",
+      "Europa League"
+    ],
+    "leagues": [
+      "Premier League"
+    ],
+    "partners": [],
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/4/48/Argentina_celebrando_copa_%28cropped%29.jpg",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Argentina_celebrando_copa_%28cropped%29.jpg/250px-Argentina_celebrando_copa_%28cropped%29.jpg",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Diego_Maradona",
+    "lastScrapedAt": "2026-07-27T22:26:49.256Z"
+  },
+  {
+    "id": "dimitar-berbatov",
+    "name": "Dimitar Berbatov",
+    "synonyms": [
+      "dimitar berbatov",
+      "berbatov",
+      "d. berbatov",
+      "d berbatov"
+    ],
+    "nationality": "England",
+    "position": "Striker",
+    "clubs": [
+      "Pirin Blagoevgrad",
+      "CSKA Sofia",
+      "Bayer Leverkusen II",
+      "Bayer Leverkusen",
+      "Tottenham Hotspur",
+      "Manchester United",
+      "Kerala Blasters",
+      "Bulgaria U18",
+      "Bulgaria U21",
+      "Chelsea",
+      "Real Madrid",
+      "Barcelona",
+      "Spurs"
+    ],
+    "managers": [],
+    "teamsManaged": [],
+    "trophies": [
+      "World Cup",
+      "Champions League",
+      "Premier League",
+      "FA Cup",
+      "League Cup",
+      "Bundesliga",
+      "Ligue 1",
+      "Euros",
+      "UEFA Cup",
+      "Europa League",
+      "FIFA Club World Cup"
+    ],
+    "leagues": [
+      "Premier League"
+    ],
+    "partners": [],
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Dimitar_Berbatov_-_53689576017.jpg",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Dimitar_Berbatov_-_53689576017.jpg/250px-Dimitar_Berbatov_-_53689576017.jpg",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Dimitar_Berbatov",
+    "lastScrapedAt": "2026-07-27T22:26:53.181Z"
+  },
+  {
+    "id": "dixie-dean",
+    "name": "Dixie Dean",
+    "synonyms": [
+      "dixie dean",
+      "dean",
+      "d. dean",
+      "d dean"
+    ],
+    "nationality": "England",
+    "position": "Centre forward",
+    "caps": 16,
+    "internationalGoals": 18,
+    "clubs": [
+      "Goodison Park",
+      "Centre forward",
+      "Tranmere Rovers",
+      "Notts County",
+      "Sligo Rovers",
+      "Liverpool",
+      "Everton"
+    ],
+    "managers": [],
+    "teamsManaged": [],
+    "trophies": [
+      "World Cup",
+      "Premier League",
+      "FA Cup"
+    ],
+    "leagues": [
+      "Premier League"
+    ],
+    "partners": [],
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Dixie_Dean_%281931%29.jpg",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Dixie_Dean_%281931%29.jpg",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Dixie_Dean",
+    "lastScrapedAt": "2026-07-27T22:26:38.222Z"
   },
   {
     "id": "dominic-solanke",
@@ -477,7 +1465,7 @@
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Dominic_Solanke_at_Avatar_fire_and_ash_premiere_London_2025.jpg",
     "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Dominic_Solanke_at_Avatar_fire_and_ash_premiere_London_2025.jpg/330px-Dominic_Solanke_at_Avatar_fire_and_ash_premiere_London_2025.jpg",
     "wikiUrl": "https://en.wikipedia.org/wiki/Dominic_Solanke",
-    "lastScrapedAt": "2026-07-27T19:43:10.617Z"
+    "lastScrapedAt": "2026-07-27T22:27:37.004Z"
   },
   {
     "id": "dominik-szoboszlai",
@@ -516,9 +1504,97 @@
     ],
     "partners": [],
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/52/Dominik_Szoboszlai_04012026_%281%29.jpg",
-    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Dominik_Szoboszlai_04012026_%281%29.jpg/330px-Dominik_Szoboszlai_04012026_%281%29.jpg",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Dominik_Szoboszlai_04012026_%281%29.jpg/250px-Dominik_Szoboszlai_04012026_%281%29.jpg",
     "wikiUrl": "https://en.wikipedia.org/wiki/Dominik_Szoboszlai",
-    "lastScrapedAt": "2026-07-27T19:43:11.002Z"
+    "lastScrapedAt": "2026-07-27T22:27:37.294Z"
+  },
+  {
+    "id": "eddie-hapgood",
+    "name": "Eddie Hapgood",
+    "synonyms": [
+      "eddie hapgood",
+      "hapgood",
+      "e. hapgood",
+      "e hapgood"
+    ],
+    "nationality": "England",
+    "position": "Full-back",
+    "caps": 30,
+    "internationalGoals": 0,
+    "clubs": [
+      "Leamington Spa",
+      "Kettering Town",
+      "Arsenal"
+    ],
+    "managers": [],
+    "teamsManaged": [
+      "Blackburn Rovers",
+      "Bath City"
+    ],
+    "trophies": [
+      "World Cup",
+      "FA Cup"
+    ],
+    "leagues": [
+      "Premier League"
+    ],
+    "partners": [],
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Eddie_Hapgood_crop_%28Tolnai_Vil%C3%A1glapja%2C_1939%29.jpg",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Eddie_Hapgood_crop_%28Tolnai_Vil%C3%A1glapja%2C_1939%29.jpg/330px-Eddie_Hapgood_crop_%28Tolnai_Vil%C3%A1glapja%2C_1939%29.jpg",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Eddie_Hapgood",
+    "lastScrapedAt": "2026-07-27T22:26:40.094Z"
+  },
+  {
+    "id": "eden-hazard",
+    "name": "Eden Hazard",
+    "synonyms": [
+      "eden hazard",
+      "hazard",
+      "e. hazard",
+      "e hazard"
+    ],
+    "nationality": "Belgium",
+    "caps": 126,
+    "internationalGoals": 33,
+    "clubs": [
+      "2019 UEFA Europa League Final",
+      "La Louvière",
+      "Left winger",
+      "attacking midfielder",
+      "Royal Stade Brainois",
+      "AFC Tubize",
+      "Lille II",
+      "Real Madrid",
+      "Belgium U15",
+      "Belgium U16",
+      "Belgium U17",
+      "Belgium U19",
+      "2018 Russia",
+      "Chelsea"
+    ],
+    "managers": [],
+    "teamsManaged": [],
+    "trophies": [
+      "World Cup",
+      "Champions League",
+      "Premier League",
+      "FA Cup",
+      "League Cup",
+      "Ballon d'Or",
+      "La Liga",
+      "Ligue 1",
+      "Euros",
+      "Europa League",
+      "FIFA Club World Cup"
+    ],
+    "leagues": [
+      "Premier League"
+    ],
+    "partners": [],
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/4/46/Eden_Hazard_at_Baku_before_2019_UEFA_Europe_League_Final.jpg",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Eden_Hazard_at_Baku_before_2019_UEFA_Europe_League_Final.jpg/250px-Eden_Hazard_at_Baku_before_2019_UEFA_Europe_League_Final.jpg",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Eden_Hazard",
+    "lastScrapedAt": "2026-07-27T22:27:03.454Z"
   },
   {
     "id": "endrick",
@@ -554,9 +1630,153 @@
     ],
     "partners": [],
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Team_Brazil_at_2026_FIFA_World_Cup_by_YantsImages_%28Endrick%29.jpg",
-    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Team_Brazil_at_2026_FIFA_World_Cup_by_YantsImages_%28Endrick%29.jpg/330px-Team_Brazil_at_2026_FIFA_World_Cup_by_YantsImages_%28Endrick%29.jpg",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Team_Brazil_at_2026_FIFA_World_Cup_by_YantsImages_%28Endrick%29.jpg/250px-Team_Brazil_at_2026_FIFA_World_Cup_by_YantsImages_%28Endrick%29.jpg",
     "wikiUrl": "https://en.wikipedia.org/wiki/Endrick",
-    "lastScrapedAt": "2026-07-27T19:43:04.000Z"
+    "lastScrapedAt": "2026-07-27T22:27:32.849Z"
+  },
+  {
+    "id": "enzo-fernandez",
+    "name": "Enzo Fernandez",
+    "synonyms": [
+      "enzo fernandez",
+      "fernandez",
+      "e. fernandez",
+      "e fernandez"
+    ],
+    "nationality": "Argentina",
+    "position": "Midfielder",
+    "shirtNumber": "#8",
+    "caps": 49,
+    "internationalGoals": 8,
+    "clubs": [
+      "San Martín, Buenos Aires",
+      "River Plate",
+      "Defensa y Justicia",
+      "Argentina U18",
+      "2022 Qatar",
+      "2026 Canada–Mexico–US",
+      "2024 United States",
+      "Chelsea"
+    ],
+    "managers": [],
+    "teamsManaged": [],
+    "trophies": [
+      "World Cup",
+      "Champions League",
+      "Premier League",
+      "FA Cup",
+      "Copa America",
+      "FIFA Club World Cup"
+    ],
+    "leagues": [
+      "Premier League"
+    ],
+    "partners": [],
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Enzo_Fernandez_Argentina_v_Egypt_7_July_2026-058.jpg",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Enzo_Fernandez_Argentina_v_Egypt_7_July_2026-058.jpg/330px-Enzo_Fernandez_Argentina_v_Egypt_7_July_2026-058.jpg",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Enzo_Fernandez",
+    "lastScrapedAt": "2026-07-27T22:27:32.562Z"
+  },
+  {
+    "id": "eric-cantona",
+    "name": "Eric Cantona",
+    "synonyms": [
+      "eric cantona",
+      "cantona",
+      "e. cantona",
+      "e cantona"
+    ],
+    "nationality": "France",
+    "position": "Forward",
+    "shirtNumber": "#7",
+    "caps": 82,
+    "internationalGoals": 23,
+    "clubs": [
+      "Rachida Brakni",
+      "Leeds United",
+      "Manchester United",
+      "France U17",
+      "France U21",
+      "France (beach)"
+    ],
+    "managers": [],
+    "teamsManaged": [
+      "Leeds United",
+      "Manchester United",
+      "France U17",
+      "France U21",
+      "France (beach)",
+      "New York Cosmos",
+      "France"
+    ],
+    "trophies": [
+      "World Cup",
+      "Champions League",
+      "European Cup",
+      "Premier League",
+      "FA Cup",
+      "League Cup",
+      "Ballon d'Or",
+      "Ligue 1",
+      "Euros",
+      "UEFA Cup"
+    ],
+    "leagues": [
+      "Premier League"
+    ],
+    "partners": [],
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Eric_Cantona_Cannes_2009.jpg",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Eric_Cantona_Cannes_2009.jpg/250px-Eric_Cantona_Cannes_2009.jpg",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Eric_Cantona",
+    "lastScrapedAt": "2026-07-27T22:26:58.788Z"
+  },
+  {
+    "id": "erling-haaland",
+    "name": "Erling Haaland",
+    "synonyms": [
+      "erling haaland",
+      "haaland",
+      "e. haaland",
+      "e haaland"
+    ],
+    "nationality": "England",
+    "position": "Striker",
+    "shirtNumber": "#9",
+    "clubs": [
+      "Manchester City",
+      "Bryne 2",
+      "Molde 2",
+      "Red Bull Salzburg",
+      "Borussia Dortmund",
+      "Norway U16",
+      "Norway U17",
+      "Norway U18",
+      "Norway U19",
+      "Norway U20",
+      "Norway U21"
+    ],
+    "managers": [],
+    "teamsManaged": [],
+    "trophies": [
+      "World Cup",
+      "Champions League",
+      "European Cup",
+      "Premier League",
+      "FA Cup",
+      "Ballon d'Or",
+      "Bundesliga",
+      "Euros",
+      "Europa League",
+      "FIFA Club World Cup"
+    ],
+    "leagues": [
+      "Premier League"
+    ],
+    "partners": [],
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/4/43/Erling_Haaland_Morocco_v_Norway_7_June_2026-51.jpg",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Erling_Haaland_Morocco_v_Norway_7_June_2026-51.jpg/330px-Erling_Haaland_Morocco_v_Norway_7_June_2026-51.jpg",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Erling_Haaland",
+    "lastScrapedAt": "2026-07-27T22:27:20.988Z"
   },
   {
     "id": "est-v-o-willian",
@@ -592,7 +1812,7 @@
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Estevao-Palmeiras-Liverpool-abr24_%28cropped%29.jpg",
     "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Estevao-Palmeiras-Liverpool-abr24_%28cropped%29.jpg/330px-Estevao-Palmeiras-Liverpool-abr24_%28cropped%29.jpg",
     "wikiUrl": "https://en.wikipedia.org/wiki/Est%C3%AAv%C3%A3o_Willian",
-    "lastScrapedAt": "2026-07-27T19:43:04.189Z"
+    "lastScrapedAt": "2026-07-27T22:27:33.073Z"
   },
   {
     "id": "ethan-nwaneri",
@@ -634,7 +1854,70 @@
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Ethan_Nwaneri.png",
     "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Ethan_Nwaneri.png/330px-Ethan_Nwaneri.png",
     "wikiUrl": "https://en.wikipedia.org/wiki/Ethan_Nwaneri",
-    "lastScrapedAt": "2026-07-27T19:43:08.692Z"
+    "lastScrapedAt": "2026-07-27T22:27:36.403Z"
+  },
+  {
+    "id": "fernando-torres",
+    "name": "Fernando Torres",
+    "synonyms": [
+      "fernando torres",
+      "torres",
+      "f. torres",
+      "f torres"
+    ],
+    "nationality": "England",
+    "position": "Striker",
+    "caps": 110,
+    "internationalGoals": 38,
+    "clubs": [
+      "Atlético Madrid B",
+      "Atlético Madrid",
+      "AC Milan",
+      "Sagan Tosu",
+      "Spain U15",
+      "Spain U16",
+      "Spain U17",
+      "Spain U18",
+      "Spain U19",
+      "Spain U21",
+      "Chelsea",
+      "Liverpool"
+    ],
+    "managers": [],
+    "teamsManaged": [
+      "Atlético Madrid U19",
+      "Atlético Madrid B",
+      "2010 South Africa",
+      "2008 Austria–Switzerland",
+      "2012 Poland–Ukraine",
+      "2013 Brazil",
+      "2009 South Africa",
+      "2002 Norway",
+      "2001 England",
+      "England",
+      "Brazil"
+    ],
+    "trophies": [
+      "World Cup",
+      "Champions League",
+      "Premier League",
+      "FA Cup",
+      "League Cup",
+      "Ballon d'Or",
+      "La Liga",
+      "Serie A",
+      "UEFA Cup",
+      "Europa League",
+      "FIFA Club World Cup"
+    ],
+    "leagues": [
+      "Premier League"
+    ],
+    "partners": [],
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/57/Fernando_Torres_2017.jpg",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/5/57/Fernando_Torres_2017.jpg",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Fernando_Torres",
+    "lastScrapedAt": "2026-07-27T22:27:07.433Z"
   },
   {
     "id": "florian-wirtz",
@@ -677,32 +1960,409 @@
     ],
     "partners": [],
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/70/Florian_Wirtz_Ecuador_v_Germany_25_June_2026-181_%28cropped%29.jpg",
-    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Florian_Wirtz_Ecuador_v_Germany_25_June_2026-181_%28cropped%29.jpg/330px-Florian_Wirtz_Ecuador_v_Germany_25_June_2026-181_%28cropped%29.jpg",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Florian_Wirtz_Ecuador_v_Germany_25_June_2026-181_%28cropped%29.jpg/250px-Florian_Wirtz_Ecuador_v_Germany_25_June_2026-181_%28cropped%29.jpg",
     "wikiUrl": "https://en.wikipedia.org/wiki/Florian_Wirtz",
-    "lastScrapedAt": "2026-07-27T19:43:06.031Z"
+    "lastScrapedAt": "2026-07-27T22:27:29.059Z"
   },
   {
-    "id": "inter-milan",
-    "name": "Inter Milan",
+    "id": "frank-lampard",
+    "name": "Frank Lampard",
     "synonyms": [
-      "inter milan",
-      "milan",
-      "i. milan",
-      "i milan"
+      "frank lampard",
+      "lampard",
+      "f. lampard",
+      "f lampard"
+    ],
+    "nationality": "England",
+    "position": "Midfielder",
+    "shirtNumber": "#8",
+    "caps": 106,
+    "internationalGoals": 29,
+    "clubs": [
+      "Coventry City",
+      "West Ham United",
+      "Swansea City",
+      "Manchester City",
+      "New York City FC",
+      "England U21",
+      "England B",
+      "Chelsea",
+      "Everton"
+    ],
+    "managers": [],
+    "teamsManaged": [
+      "Derby County",
+      "Chelsea",
+      "Everton",
+      "Coventry City"
+    ],
+    "trophies": [
+      "World Cup",
+      "Champions League",
+      "Premier League",
+      "FA Cup",
+      "League Cup",
+      "Ballon d'Or",
+      "Euros",
+      "UEFA Cup",
+      "Europa League",
+      "FIFA Club World Cup"
+    ],
+    "leagues": [
+      "Premier League"
+    ],
+    "partners": [],
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Frank_Lampard_2019.jpg",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Frank_Lampard_2019.jpg/250px-Frank_Lampard_2019.jpg",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Frank_Lampard",
+    "lastScrapedAt": "2026-07-27T22:27:01.278Z"
+  },
+  {
+    "id": "franz-beckenbauer",
+    "name": "Franz Beckenbauer",
+    "synonyms": [
+      "franz beckenbauer",
+      "beckenbauer",
+      "f. beckenbauer",
+      "f beckenbauer"
+    ],
+    "nationality": "Germany",
+    "caps": 103,
+    "internationalGoals": 14,
+    "clubs": [
+      "West Germany",
+      "Bayern Munich",
+      "New York Cosmos",
+      "Hamburger SV",
+      "West Germany Youth",
+      "West Germany B"
+    ],
+    "managers": [],
+    "teamsManaged": [
+      "West Germany",
+      "Germany",
+      "Bayern Munich"
+    ],
+    "trophies": [
+      "World Cup",
+      "Champions League",
+      "European Cup",
+      "FA Cup",
+      "Ballon d'Or",
+      "Bundesliga",
+      "Ligue 1",
+      "Euros",
+      "UEFA Cup",
+      "Europa League",
+      "Intercontinental Cup"
+    ],
+    "leagues": [
+      "Premier League"
+    ],
+    "partners": [],
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/56/Franz_Beckenbauer_%281975%29.jpg",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Franz_Beckenbauer_%281975%29.jpg/250px-Franz_Beckenbauer_%281975%29.jpg",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Franz_Beckenbauer",
+    "lastScrapedAt": "2026-07-27T22:26:50.352Z"
+  },
+  {
+    "id": "gareth-bale",
+    "name": "Gareth Bale",
+    "synonyms": [
+      "gareth bale",
+      "bale",
+      "g. bale",
+      "g bale"
+    ],
+    "nationality": "Wales",
+    "caps": 111,
+    "internationalGoals": 41,
+    "clubs": [
+      "Right winger",
+      "Cardiff Civil Service",
+      "Tottenham Hotspur",
+      "Real Madrid",
+      "Los Angeles FC",
+      "Wales U17",
+      "Wales U19",
+      "Wales U21",
+      "Spurs"
+    ],
+    "managers": [],
+    "teamsManaged": [],
+    "trophies": [
+      "World Cup",
+      "Champions League",
+      "European Cup",
+      "Premier League",
+      "FA Cup",
+      "League Cup",
+      "La Liga",
+      "Bundesliga",
+      "Euros",
+      "UEFA Cup",
+      "Europa League",
+      "FIFA Club World Cup"
+    ],
+    "leagues": [
+      "Premier League"
+    ],
+    "partners": [],
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1e/2022_FIFA_World_Cup_United_States_1%E2%80%931_Wales_-_%2832%29_%28cropped%29.jpg",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/2022_FIFA_World_Cup_United_States_1%E2%80%931_Wales_-_%2832%29_%28cropped%29.jpg/330px-2022_FIFA_World_Cup_United_States_1%E2%80%931_Wales_-_%2832%29_%28cropped%29.jpg",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Gareth_Bale",
+    "lastScrapedAt": "2026-07-27T22:27:11.604Z"
+  },
+  {
+    "id": "gavi",
+    "name": "Gavi",
+    "synonyms": [
+      "gavi"
     ],
     "nationality": "England",
     "clubs": [
-      "Grass Snake",
-      "Giuseppe Meazza",
-      "Oaktree Capital Management",
-      "Giuseppe Marotta",
-      "Cristian Chivu",
-      "Serie A",
-      "Home colours",
-      "Away colours",
-      "Current season",
-      "AC Milan",
-      "Inter Milan"
+      "Manchester United",
+      "Tottenham Hotspur",
+      "Arsenal",
+      "Chelsea",
+      "Liverpool",
+      "Manchester City"
+    ],
+    "managers": [],
+    "trophies": [
+      "Premier League",
+      "Champions League",
+      "World Cup"
+    ],
+    "leagues": [
+      "Premier League"
+    ],
+    "partners": [],
+    "lastScrapedAt": "2026-07-27T22:27:29.920Z"
+  },
+  {
+    "id": "geoff-hurst",
+    "name": "Geoff Hurst",
+    "synonyms": [
+      "geoff hurst",
+      "hurst",
+      "g. hurst",
+      "g hurst"
+    ],
+    "nationality": "England",
+    "position": "Striker",
+    "caps": 49,
+    "internationalGoals": 24,
+    "clubs": [
+      "Upton Park",
+      "West Ham United",
+      "Stoke City",
+      "Cape Town City",
+      "West Bromwich Albion",
+      "Cork Celtic",
+      "Seattle Sounders",
+      "Telford United",
+      "England U23",
+      "The Football League XI",
+      "Chelsea",
+      "Celtic"
+    ],
+    "managers": [],
+    "teamsManaged": [
+      "Telford United",
+      "Chelsea",
+      "Kuwait SC",
+      "1966 England",
+      "1968 Italy",
+      "England",
+      "Italy",
+      "Batting average"
+    ],
+    "trophies": [
+      "World Cup",
+      "European Cup",
+      "Premier League",
+      "FA Cup",
+      "League Cup",
+      "Ballon d'Or",
+      "UEFA Cup"
+    ],
+    "leagues": [
+      "Premier League"
+    ],
+    "partners": [],
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Geoff_Hurst_%282%29.jpg",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Geoff_Hurst_%282%29.jpg/250px-Geoff_Hurst_%282%29.jpg",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Geoff_Hurst",
+    "lastScrapedAt": "2026-07-27T22:26:44.279Z"
+  },
+  {
+    "id": "george-best",
+    "name": "George Best",
+    "synonyms": [
+      "george best",
+      "best",
+      "g. best",
+      "g best"
+    ],
+    "nationality": "England",
+    "shirtNumber": "#7",
+    "clubs": [
+      "South Kensington",
+      "Right winger",
+      "attacking midfielder",
+      "Cregagh Boys Club",
+      "Manchester United",
+      "Jewish Guild",
+      "Dunstable Town",
+      "Stockport County",
+      "Cork Celtic",
+      "Los Angeles Aztecs",
+      "Fort Lauderdale Strikers",
+      "San Jose Earthquakes",
+      "Sea Bee",
+      "Hong Kong Rangers",
+      "AFC Bournemouth",
+      "Brisbane Lions",
+      "Tobermore United",
+      "Northern Ireland",
+      "Celtic",
+      "Rangers"
+    ],
+    "managers": [],
+    "teamsManaged": [],
+    "trophies": [
+      "World Cup",
+      "European Cup",
+      "Premier League",
+      "FA Cup",
+      "League Cup",
+      "Ballon d'Or",
+      "Intercontinental Cup"
+    ],
+    "leagues": [
+      "Premier League"
+    ],
+    "partners": [],
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a5/George_best_1976.jpg",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/George_best_1976.jpg/330px-George_best_1976.jpg",
+    "wikiUrl": "https://en.wikipedia.org/wiki/George_Best",
+    "lastScrapedAt": "2026-07-27T22:26:42.066Z"
+  },
+  {
+    "id": "gerard-pique",
+    "name": "Gerard Pique",
+    "synonyms": [
+      "gerard pique",
+      "pique",
+      "g. pique",
+      "g pique"
+    ],
+    "nationality": "Spain",
+    "position": "Centre-back",
+    "caps": 102,
+    "internationalGoals": 5,
+    "clubs": [
+      "Manchester United",
+      "Spain U16",
+      "Spain U17",
+      "Spain U19",
+      "Spain U20",
+      "Spain U21",
+      "Barcelona"
+    ],
+    "managers": [],
+    "teamsManaged": [],
+    "trophies": [
+      "World Cup",
+      "Champions League",
+      "European Cup",
+      "Premier League",
+      "FA Cup",
+      "League Cup",
+      "La Liga",
+      "Copa America",
+      "Europa League",
+      "FIFA Club World Cup"
+    ],
+    "leagues": [
+      "Premier League"
+    ],
+    "partners": [],
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Gerard_Piqu%C3%A9_Euro_2012_vs_France_01.jpg",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Gerard_Piqu%C3%A9_Euro_2012_vs_France_01.jpg/330px-Gerard_Piqu%C3%A9_Euro_2012_vs_France_01.jpg",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Gerard_Pique",
+    "lastScrapedAt": "2026-07-27T22:27:16.700Z"
+  },
+  {
+    "id": "gerd-muller",
+    "name": "Gerd Muller",
+    "synonyms": [
+      "gerd muller",
+      "muller",
+      "g. muller",
+      "g muller"
+    ],
+    "nationality": "Germany",
+    "position": "Striker",
+    "caps": 62,
+    "internationalGoals": 68,
+    "clubs": [
+      "Bayern Munich",
+      "1861 Nördlingen",
+      "Fort Lauderdale Strikers",
+      "West Germany U23",
+      "West Germany"
+    ],
+    "managers": [],
+    "teamsManaged": [
+      "Bayern Munich II",
+      "Bayern Munich",
+      "1974 West Germany",
+      "1970 Mexico",
+      "1972 Belgium",
+      "Germany"
+    ],
+    "trophies": [
+      "World Cup",
+      "Champions League",
+      "European Cup",
+      "FA Cup",
+      "Ballon d'Or",
+      "Bundesliga",
+      "UEFA Cup",
+      "Intercontinental Cup"
+    ],
+    "leagues": [
+      "Premier League"
+    ],
+    "partners": [],
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Gerd_M%C3%BCller_c1973_%28cropped%29.jpg",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Gerd_M%C3%BCller_c1973_%28cropped%29.jpg/330px-Gerd_M%C3%BCller_c1973_%28cropped%29.jpg",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Gerd_Muller",
+    "lastScrapedAt": "2026-07-27T22:26:50.596Z"
+  },
+  {
+    "id": "gianluigi-buffon",
+    "name": "Gianluigi Buffon",
+    "synonyms": [
+      "gianluigi buffon",
+      "buffon",
+      "g. buffon",
+      "g buffon"
+    ],
+    "nationality": "Italy",
+    "position": "Goalkeeper",
+    "caps": 176,
+    "internationalGoals": 0,
+    "clubs": [
+      "Paris Saint-Germain",
+      "Italy U16",
+      "Italy U17",
+      "Italy U18",
+      "Italy U21",
+      "Italy U23",
+      "Juventus"
     ],
     "managers": [],
     "teamsManaged": [],
@@ -714,20 +2374,266 @@
       "Ballon d'Or",
       "La Liga",
       "Serie A",
+      "Ligue 1",
       "Euros",
       "UEFA Cup",
+      "Europa League"
+    ],
+    "leagues": [
+      "Premier League"
+    ],
+    "partners": [],
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Norway_Italy_-_June_2025_A_44_%28Gianluigi_Buffon%29.jpg",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Norway_Italy_-_June_2025_A_44_%28Gianluigi_Buffon%29.jpg/330px-Norway_Italy_-_June_2025_A_44_%28Gianluigi_Buffon%29.jpg",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Gianluigi_Buffon",
+    "lastScrapedAt": "2026-07-27T22:27:20.392Z"
+  },
+  {
+    "id": "gordon-banks",
+    "name": "Gordon Banks",
+    "synonyms": [
+      "gordon banks",
+      "banks",
+      "g. banks",
+      "g banks"
+    ],
+    "nationality": "England",
+    "position": "Goalkeeper",
+    "caps": 73,
+    "internationalGoals": 0,
+    "clubs": [
+      "Madeley, Staffordshire",
+      "Rawmarsh Welfare",
+      "Leicester City",
+      "Stoke City",
+      "Cleveland Stokers",
+      "Fort Lauderdale Strikers",
+      "St Patrick's Athletic",
+      "England U23"
+    ],
+    "managers": [],
+    "teamsManaged": [
+      "Telford United"
+    ],
+    "trophies": [
+      "World Cup",
+      "European Cup",
+      "Premier League",
+      "FA Cup",
+      "League Cup",
+      "Ballon d'Or",
+      "Euros",
+      "UEFA Cup"
+    ],
+    "leagues": [
+      "Premier League"
+    ],
+    "partners": [],
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Gordon_Banks_2007.jpg",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Gordon_Banks_2007.jpg/250px-Gordon_Banks_2007.jpg",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Gordon_Banks",
+    "lastScrapedAt": "2026-07-27T22:26:43.869Z"
+  },
+  {
+    "id": "harry-kane",
+    "name": "Harry Kane",
+    "synonyms": [
+      "harry kane",
+      "kane",
+      "h. kane",
+      "h kane"
+    ],
+    "nationality": "England",
+    "position": "Striker",
+    "shirtNumber": "#9",
+    "caps": 121,
+    "internationalGoals": 85,
+    "clubs": [
+      "Bayern Munich",
+      "Tottenham Hotspur",
+      "Leyton Orient",
+      "Norwich City",
+      "Leicester City",
+      "England U17",
+      "England U19",
+      "England U20",
+      "England U21",
+      "2026 North America",
+      "2020 Europe",
+      "2024 Germany",
+      "2019 Portugal",
+      "Arsenal",
+      "Millwall",
+      "Spurs"
+    ],
+    "managers": [],
+    "teamsManaged": [],
+    "trophies": [
+      "World Cup",
+      "Champions League",
+      "European Cup",
+      "Premier League",
+      "FA Cup",
+      "League Cup",
+      "Ballon d'Or",
+      "Bundesliga",
+      "Euros",
       "Europa League",
-      "FIFA Club World Cup",
+      "FIFA Club World Cup"
+    ],
+    "leagues": [
+      "Premier League"
+    ],
+    "partners": [],
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Harry_Kane_England_v_Ghana_23_June_2026-219_%28cropped%29.jpg",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Harry_Kane_England_v_Ghana_23_June_2026-219_%28cropped%29.jpg/330px-Harry_Kane_England_v_Ghana_23_June_2026-219_%28cropped%29.jpg",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Harry_Kane",
+    "lastScrapedAt": "2026-07-27T22:27:12.826Z"
+  },
+  {
+    "id": "herbert-chapman",
+    "name": "Herbert Chapman",
+    "synonyms": [
+      "herbert chapman",
+      "chapman",
+      "h. chapman",
+      "h chapman"
+    ],
+    "nationality": "England",
+    "position": "Inside forward",
+    "clubs": [
+      "Kiveton Park",
+      "Inside forward",
+      "Ashton North End",
+      "Stalybridge Rovers",
+      "Grimsby Town",
+      "Swindon Town",
+      "Sheppey United",
+      "Worksop Town",
+      "Northampton Town",
+      "Sheffield United",
+      "Notts County",
+      "Tottenham Hotspur",
+      "Arsenal",
+      "Spurs"
+    ],
+    "managers": [],
+    "teamsManaged": [
+      "Northampton Town",
+      "Leeds City",
+      "Huddersfield Town",
+      "Arsenal"
+    ],
+    "trophies": [
+      "European Cup",
+      "Premier League",
+      "FA Cup"
+    ],
+    "leagues": [
+      "Premier League"
+    ],
+    "partners": [],
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/en/6/67/Herbert_Chapman_1.jpg",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/6/67/Herbert_Chapman_1.jpg",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Herbert_Chapman",
+    "lastScrapedAt": "2026-07-27T22:26:40.412Z"
+  },
+  {
+    "id": "hugo-lloris",
+    "name": "Hugo Lloris",
+    "synonyms": [
+      "hugo lloris",
+      "lloris",
+      "h. lloris",
+      "h lloris"
+    ],
+    "nationality": "France",
+    "position": "Goalkeeper",
+    "shirtNumber": "#1",
+    "caps": 145,
+    "internationalGoals": 0,
+    "clubs": [
+      "Los Angeles FC",
+      "Nice II",
+      "Tottenham Hotspur",
+      "France U18",
+      "France U19",
+      "France U20",
+      "France U21",
+      "2018 Russia",
+      "2022 Qatar",
+      "2021 Italy",
+      "2016 France",
+      "2005 Northern Ireland",
+      "Spurs"
+    ],
+    "managers": [],
+    "teamsManaged": [],
+    "trophies": [
+      "World Cup",
+      "Champions League",
+      "Premier League",
+      "FA Cup",
+      "League Cup",
+      "Ligue 1",
+      "Euros",
+      "Europa League",
+      "FIFA Club World Cup"
+    ],
+    "leagues": [
+      "Premier League"
+    ],
+    "partners": [],
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Lloris_2018_%28cropped%29.jpg",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Lloris_2018_%28cropped%29.jpg/330px-Lloris_2018_%28cropped%29.jpg",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Hugo_Lloris",
+    "lastScrapedAt": "2026-07-27T22:27:13.688Z"
+  },
+  {
+    "id": "ian-rush",
+    "name": "Ian Rush",
+    "synonyms": [
+      "ian rush",
+      "rush",
+      "i. rush",
+      "i rush"
+    ],
+    "nationality": "Wales",
+    "position": "Forward",
+    "caps": 73,
+    "internationalGoals": 28,
+    "clubs": [
+      "St Asaph",
+      "Leeds United",
+      "Newcastle United",
+      "Sheffield United",
+      "Sydney Olympic",
+      "Liverpool",
+      "Juventus"
+    ],
+    "managers": [],
+    "teamsManaged": [
+      "Chester City"
+    ],
+    "trophies": [
+      "World Cup",
+      "Champions League",
+      "European Cup",
+      "Premier League",
+      "FA Cup",
+      "League Cup",
+      "Serie A",
+      "UEFA Cup",
       "Intercontinental Cup"
     ],
     "leagues": [
       "Premier League"
     ],
     "partners": [],
-    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/FC_Internazionale_Milano_2021.svg/960px-FC_Internazionale_Milano_2021.svg.png",
-    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/FC_Internazionale_Milano_2021.svg/330px-FC_Internazionale_Milano_2021.svg.png",
-    "wikiUrl": "https://en.wikipedia.org/wiki/Inter_Milan",
-    "lastScrapedAt": "2026-07-27T19:43:14.268Z"
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/67/Ian_Rush_in_Singapore.jpg",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/6/67/Ian_Rush_in_Singapore.jpg",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Ian_Rush",
+    "lastScrapedAt": "2026-07-27T22:26:47.542Z"
   },
   {
     "id": "jamal-musiala",
@@ -769,9 +2675,51 @@
     ],
     "partners": [],
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/4/44/Jamal_Musiala_Ecuador_v_Germany_25_June_2026-174_%28cropped%29.jpg",
-    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Jamal_Musiala_Ecuador_v_Germany_25_June_2026-174_%28cropped%29.jpg/330px-Jamal_Musiala_Ecuador_v_Germany_25_June_2026-174_%28cropped%29.jpg",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Jamal_Musiala_Ecuador_v_Germany_25_June_2026-174_%28cropped%29.jpg/250px-Jamal_Musiala_Ecuador_v_Germany_25_June_2026-174_%28cropped%29.jpg",
     "wikiUrl": "https://en.wikipedia.org/wiki/Jamal_Musiala",
-    "lastScrapedAt": "2026-07-27T19:43:06.294Z"
+    "lastScrapedAt": "2026-07-27T22:27:29.429Z"
+  },
+  {
+    "id": "jamie-carragher",
+    "name": "Jamie Carragher",
+    "synonyms": [
+      "jamie carragher",
+      "carragher",
+      "j. carragher",
+      "j carragher"
+    ],
+    "nationality": "England",
+    "position": "Defender",
+    "caps": 38,
+    "internationalGoals": 0,
+    "clubs": [
+      "England U21",
+      "England U20",
+      "England B",
+      "Liverpool"
+    ],
+    "managers": [],
+    "teamsManaged": [],
+    "trophies": [
+      "World Cup",
+      "Champions League",
+      "Premier League",
+      "FA Cup",
+      "League Cup",
+      "Ballon d'Or",
+      "Euros",
+      "UEFA Cup",
+      "Europa League",
+      "FIFA Club World Cup"
+    ],
+    "leagues": [
+      "Premier League"
+    ],
+    "partners": [],
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Football_against_poverty_2014_-_Jamie_Carragher_%28cropped%29.jpg",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Football_against_poverty_2014_-_Jamie_Carragher_%28cropped%29.jpg/250px-Football_against_poverty_2014_-_Jamie_Carragher_%28cropped%29.jpg",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Jamie_Carragher",
+    "lastScrapedAt": "2026-07-27T22:27:04.455Z"
   },
   {
     "id": "jarell-quansah",
@@ -817,9 +2765,9 @@
     ],
     "partners": [],
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Jarell_Quansah_England_v_Panama_27_June_26-046.jpg",
-    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Jarell_Quansah_England_v_Panama_27_June_26-046.jpg/330px-Jarell_Quansah_England_v_Panama_27_June_26-046.jpg",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Jarell_Quansah_England_v_Panama_27_June_26-046.jpg/250px-Jarell_Quansah_England_v_Panama_27_June_26-046.jpg",
     "wikiUrl": "https://en.wikipedia.org/wiki/Jarell_Quansah",
-    "lastScrapedAt": "2026-07-27T19:43:09.437Z"
+    "lastScrapedAt": "2026-07-27T22:27:36.775Z"
   },
   {
     "id": "j-r-my-doku",
@@ -859,9 +2807,151 @@
     ],
     "partners": [],
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/06/J%C3%A9r%C3%A9my_Doku_USMNT_v_Belgium_Mar_28_2026-27_%28cropped%29.jpg",
-    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/J%C3%A9r%C3%A9my_Doku_USMNT_v_Belgium_Mar_28_2026-27_%28cropped%29.jpg/330px-J%C3%A9r%C3%A9my_Doku_USMNT_v_Belgium_Mar_28_2026-27_%28cropped%29.jpg",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/J%C3%A9r%C3%A9my_Doku_USMNT_v_Belgium_Mar_28_2026-27_%28cropped%29.jpg/250px-J%C3%A9r%C3%A9my_Doku_USMNT_v_Belgium_Mar_28_2026-27_%28cropped%29.jpg",
     "wikiUrl": "https://en.wikipedia.org/wiki/J%C3%A9r%C3%A9my_Doku",
-    "lastScrapedAt": "2026-07-27T19:43:11.421Z"
+    "lastScrapedAt": "2026-07-27T22:27:37.556Z"
+  },
+  {
+    "id": "jimmy-greaves",
+    "name": "Jimmy Greaves",
+    "synonyms": [
+      "jimmy greaves",
+      "greaves",
+      "j. greaves",
+      "j greaves"
+    ],
+    "nationality": "England",
+    "position": "Striker",
+    "caps": 57,
+    "internationalGoals": 44,
+    "clubs": [
+      "Manor Park, Essex",
+      "Danbury, Essex",
+      "AC Milan",
+      "Tottenham Hotspur",
+      "West Ham United",
+      "Chelmsford City",
+      "Woodford Town",
+      "England U23",
+      "United Kingdom",
+      "1966 England",
+      "Chelsea",
+      "Spurs"
+    ],
+    "managers": [],
+    "teamsManaged": [],
+    "trophies": [
+      "World Cup",
+      "European Cup",
+      "Premier League",
+      "FA Cup",
+      "League Cup",
+      "Ballon d'Or",
+      "Serie A",
+      "UEFA Cup"
+    ],
+    "leagues": [
+      "Premier League"
+    ],
+    "partners": [],
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Jimmy_Greaves_%28cropped%29.jpg",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Jimmy_Greaves_%28cropped%29.jpg/250px-Jimmy_Greaves_%28cropped%29.jpg",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Jimmy_Greaves",
+    "lastScrapedAt": "2026-07-27T22:26:45.917Z"
+  },
+  {
+    "id": "johan-cruyff",
+    "name": "Johan Cruyff",
+    "synonyms": [
+      "johan cruyff",
+      "cruyff",
+      "j. cruyff",
+      "j cruyff"
+    ],
+    "nationality": "Spain",
+    "shirtNumber": "#14",
+    "caps": 48,
+    "internationalGoals": 33,
+    "clubs": [
+      "attacking midfielder",
+      "Los Angeles Aztecs",
+      "Washington Diplomats",
+      "Barcelona",
+      "Ajax"
+    ],
+    "managers": [],
+    "teamsManaged": [
+      "Ajax",
+      "Barcelona",
+      "1974 West Germany",
+      "1976 Yugoslavia",
+      "Germany"
+    ],
+    "trophies": [
+      "World Cup",
+      "Champions League",
+      "European Cup",
+      "FA Cup",
+      "Ballon d'Or",
+      "La Liga",
+      "Eredivisie",
+      "Euros",
+      "UEFA Cup",
+      "Intercontinental Cup"
+    ],
+    "leagues": [
+      "Premier League"
+    ],
+    "partners": [],
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Johan_Cruijff_%281974%29.jpg",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Johan_Cruijff_%281974%29.jpg/250px-Johan_Cruijff_%281974%29.jpg",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Johan_Cruyff",
+    "lastScrapedAt": "2026-07-27T22:26:49.821Z"
+  },
+  {
+    "id": "john-terry",
+    "name": "John Terry",
+    "synonyms": [
+      "john terry",
+      "terry",
+      "j. terry",
+      "j terry"
+    ],
+    "nationality": "England",
+    "position": "Centre-back",
+    "shirtNumber": "#26",
+    "caps": 78,
+    "internationalGoals": 6,
+    "clubs": [
+      "West Ham United",
+      "Nottingham Forest",
+      "Aston Villa",
+      "England U21",
+      "Manchester United",
+      "Chelsea"
+    ],
+    "managers": [],
+    "teamsManaged": [],
+    "trophies": [
+      "World Cup",
+      "Champions League",
+      "European Cup",
+      "Premier League",
+      "FA Cup",
+      "League Cup",
+      "Euros",
+      "UEFA Cup",
+      "Europa League",
+      "FIFA Club World Cup"
+    ],
+    "leagues": [
+      "Premier League"
+    ],
+    "partners": [],
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c3/John_Terry_at_pro-am_Wentworth_golf_course_September_2023_%28cropped%29.jpg",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/John_Terry_at_pro-am_Wentworth_golf_course_September_2023_%28cropped%29.jpg/250px-John_Terry_at_pro-am_Wentworth_golf_course_September_2023_%28cropped%29.jpg",
+    "wikiUrl": "https://en.wikipedia.org/wiki/John_Terry",
+    "lastScrapedAt": "2026-07-27T22:27:01.727Z"
   },
   {
     "id": "joshua-zirkzee",
@@ -905,9 +2995,9 @@
     ],
     "partners": [],
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Joshua_Zirkzee_2019.jpg",
-    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Joshua_Zirkzee_2019.jpg/330px-Joshua_Zirkzee_2019.jpg",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Joshua_Zirkzee_2019.jpg/250px-Joshua_Zirkzee_2019.jpg",
     "wikiUrl": "https://en.wikipedia.org/wiki/Joshua_Zirkzee",
-    "lastScrapedAt": "2026-07-27T19:43:07.932Z"
+    "lastScrapedAt": "2026-07-27T22:27:35.608Z"
   },
   {
     "id": "jo-ko-gvardiol",
@@ -950,9 +3040,137 @@
     ],
     "partners": [],
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/58/Josko_Gvardiol_Croatia_v_Portugal_2_July_2026-262.jpg",
-    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Josko_Gvardiol_Croatia_v_Portugal_2_July_2026-262.jpg/330px-Josko_Gvardiol_Croatia_v_Portugal_2_July_2026-262.jpg",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Josko_Gvardiol_Croatia_v_Portugal_2_July_2026-262.jpg/250px-Josko_Gvardiol_Croatia_v_Portugal_2_July_2026-262.jpg",
     "wikiUrl": "https://en.wikipedia.org/wiki/Jo%C5%A1ko_Gvardiol",
-    "lastScrapedAt": "2026-07-27T19:43:12.454Z"
+    "lastScrapedAt": "2026-07-27T22:27:37.837Z"
+  },
+  {
+    "id": "jude-bellingham",
+    "name": "Jude Bellingham",
+    "synonyms": [
+      "jude bellingham",
+      "bellingham",
+      "j. bellingham",
+      "j bellingham"
+    ],
+    "nationality": "England",
+    "shirtNumber": "#5",
+    "caps": 56,
+    "internationalGoals": 13,
+    "clubs": [
+      "Attacking midfielder",
+      "central midfielder",
+      "Real Madrid",
+      "Stourbridge Juniors",
+      "Birmingham City",
+      "Borussia Dortmund",
+      "England U16",
+      "England U17",
+      "England U21",
+      "2026 North America",
+      "2020 Europe",
+      "2024 Germany"
+    ],
+    "managers": [],
+    "teamsManaged": [],
+    "trophies": [
+      "World Cup",
+      "Champions League",
+      "FA Cup",
+      "Ballon d'Or",
+      "La Liga",
+      "Bundesliga",
+      "Euros",
+      "Europa League",
+      "FIFA Club World Cup",
+      "Intercontinental Cup"
+    ],
+    "leagues": [
+      "Premier League"
+    ],
+    "partners": [],
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/2/23/Jude_Bellingham_England_v_Ghana_23_June_2026-061_%28cropped%29.jpg",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Jude_Bellingham_England_v_Ghana_23_June_2026-061_%28cropped%29.jpg/330px-Jude_Bellingham_England_v_Ghana_23_June_2026-061_%28cropped%29.jpg",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Jude_Bellingham",
+    "lastScrapedAt": "2026-07-27T22:27:21.385Z"
+  },
+  {
+    "id": "julian-alvarez",
+    "name": "Julian Alvarez",
+    "synonyms": [
+      "julian alvarez",
+      "alvarez",
+      "j. alvarez",
+      "j alvarez"
+    ],
+    "nationality": "England",
+    "position": "Forward",
+    "shirtNumber": "#19",
+    "caps": 59,
+    "internationalGoals": 15,
+    "clubs": [
+      "Atlético Madrid",
+      "River Plate",
+      "Manchester City",
+      "Argentina U20",
+      "Argentina U23",
+      "2022 Qatar",
+      "2026 Canada–Mexico–US",
+      "2021 Brazil",
+      "2024 United States",
+      "2022 England",
+      "2020 Colombia",
+      "2019 Chile",
+      "U-20 Team",
+      "Real Madrid"
+    ],
+    "managers": [],
+    "teamsManaged": [],
+    "trophies": [
+      "World Cup",
+      "Champions League",
+      "Premier League",
+      "FA Cup",
+      "Ballon d'Or",
+      "La Liga",
+      "Copa America",
+      "FIFA Club World Cup"
+    ],
+    "leagues": [
+      "Premier League"
+    ],
+    "partners": [],
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Julian_Alvarez_Argentina_v_Egypt_7_July_2026-056.jpg",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Julian_Alvarez_Argentina_v_Egypt_7_July_2026-056.jpg/330px-Julian_Alvarez_Argentina_v_Egypt_7_July_2026-056.jpg",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Julian_Alvarez",
+    "lastScrapedAt": "2026-07-27T22:27:30.718Z"
+  },
+  {
+    "id": "kaka",
+    "name": "Kaka",
+    "synonyms": [
+      "kaka"
+    ],
+    "nationality": "England",
+    "clubs": [
+      "Manchester United",
+      "Tottenham Hotspur",
+      "Arsenal",
+      "Chelsea",
+      "Liverpool",
+      "Manchester City"
+    ],
+    "managers": [],
+    "trophies": [
+      "Premier League",
+      "Champions League",
+      "World Cup"
+    ],
+    "leagues": [
+      "Premier League"
+    ],
+    "partners": [],
+    "lastScrapedAt": "2026-07-27T22:27:18.697Z"
   },
   {
     "id": "kenan-y-ld-z",
@@ -988,9 +3206,159 @@
     ],
     "partners": [],
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Kenan_Y%C4%B1ld%C4%B1z_in_the_international_match_%28March_2025%29_%28cropped%29.jpg",
-    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Kenan_Y%C4%B1ld%C4%B1z_in_the_international_match_%28March_2025%29_%28cropped%29.jpg/330px-Kenan_Y%C4%B1ld%C4%B1z_in_the_international_match_%28March_2025%29_%28cropped%29.jpg",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Kenan_Y%C4%B1ld%C4%B1z_in_the_international_match_%28March_2025%29_%28cropped%29.jpg/250px-Kenan_Y%C4%B1ld%C4%B1z_in_the_international_match_%28March_2025%29_%28cropped%29.jpg",
     "wikiUrl": "https://en.wikipedia.org/wiki/Kenan_Y%C4%B1ld%C4%B1z",
-    "lastScrapedAt": "2026-07-27T19:43:12.668Z"
+    "lastScrapedAt": "2026-07-27T22:27:38.063Z"
+  },
+  {
+    "id": "kenny-dalglish",
+    "name": "Kenny Dalglish",
+    "synonyms": [
+      "kenny dalglish",
+      "dalglish",
+      "k. dalglish",
+      "k dalglish"
+    ],
+    "nationality": "Scotland",
+    "position": "Forward",
+    "caps": 102,
+    "internationalGoals": 30,
+    "clubs": [
+      "Cumbernauld United",
+      "Scotland U23",
+      "Liverpool",
+      "Newcastle United",
+      "Celtic"
+    ],
+    "managers": [],
+    "teamsManaged": [
+      "Liverpool",
+      "Blackburn Rovers",
+      "Newcastle United",
+      "Celtic"
+    ],
+    "trophies": [
+      "World Cup",
+      "Champions League",
+      "European Cup",
+      "Premier League",
+      "FA Cup",
+      "League Cup",
+      "Ballon d'Or",
+      "UEFA Cup",
+      "Europa League",
+      "Intercontinental Cup"
+    ],
+    "leagues": [
+      "Premier League"
+    ],
+    "partners": [],
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/64/Kenny_Dalglish_2009_Singapore.jpg",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Kenny_Dalglish_2009_Singapore.jpg/250px-Kenny_Dalglish_2009_Singapore.jpg",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Kenny_Dalglish",
+    "lastScrapedAt": "2026-07-27T22:26:47.323Z"
+  },
+  {
+    "id": "kevin-de-bruyne",
+    "name": "Kevin De Bruyne",
+    "synonyms": [
+      "kevin de bruyne",
+      "bruyne",
+      "k. bruyne",
+      "k bruyne",
+      "de bruyne"
+    ],
+    "nationality": "Belgium",
+    "position": "Midfielder",
+    "shirtNumber": "#11",
+    "caps": 124,
+    "internationalGoals": 38,
+    "clubs": [
+      "Werder Bremen",
+      "VfL Wolfsburg",
+      "Manchester City",
+      "Belgium U18",
+      "Belgium U19",
+      "Belgium U21",
+      "2018 Russia",
+      "Chelsea"
+    ],
+    "managers": [],
+    "teamsManaged": [],
+    "trophies": [
+      "World Cup",
+      "Champions League",
+      "Premier League",
+      "FA Cup",
+      "League Cup",
+      "Ballon d'Or",
+      "Serie A",
+      "Bundesliga",
+      "Ligue 1",
+      "Euros",
+      "Europa League",
+      "FIFA Club World Cup"
+    ],
+    "leagues": [
+      "Premier League"
+    ],
+    "partners": [],
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/4/40/Kevin_De_Bruyne_USMNT_v_Belgium_Mar_28_2026-64_%28cropped%29.jpg",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Kevin_De_Bruyne_USMNT_v_Belgium_Mar_28_2026-64_%28cropped%29.jpg/330px-Kevin_De_Bruyne_USMNT_v_Belgium_Mar_28_2026-64_%28cropped%29.jpg",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Kevin_De_Bruyne",
+    "lastScrapedAt": "2026-07-27T22:27:10.635Z"
+  },
+  {
+    "id": "kevin-keegan",
+    "name": "Kevin Keegan",
+    "synonyms": [
+      "kevin keegan",
+      "keegan",
+      "k. keegan",
+      "k keegan"
+    ],
+    "nationality": "England",
+    "caps": 63,
+    "internationalGoals": 21,
+    "clubs": [
+      "Attacking midfielder",
+      "Scunthorpe United",
+      "Hamburger SV",
+      "Newcastle United",
+      "Blacktown City",
+      "England U23",
+      "Liverpool",
+      "Manchester City"
+    ],
+    "managers": [],
+    "teamsManaged": [
+      "Newcastle United",
+      "England",
+      "Manchester City",
+      "Keegan on his introduction to football, Newcastle…, and also his early career in England with Scunthorpe and Liverpool.",
+      "Steve Harmison",
+      "Liverpool",
+      "Keegan on his Newcastle debut."
+    ],
+    "trophies": [
+      "World Cup",
+      "European Cup",
+      "Premier League",
+      "FA Cup",
+      "League Cup",
+      "Ballon d'Or",
+      "Bundesliga",
+      "Euros",
+      "UEFA Cup"
+    ],
+    "leagues": [
+      "Premier League"
+    ],
+    "partners": [],
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/3/37/Kevin_keegan_panini_card_%28cropped%29.jpg",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Kevin_keegan_panini_card_%28cropped%29.jpg/250px-Kevin_keegan_panini_card_%28cropped%29.jpg",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Kevin_Keegan",
+    "lastScrapedAt": "2026-07-27T22:26:46.604Z"
   },
   {
     "id": "kobbie-mainoo",
@@ -1029,9 +3397,61 @@
     ],
     "partners": [],
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Kobbie_Mainoo_England_v_Panama_27_June_26-052.jpg",
-    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Kobbie_Mainoo_England_v_Panama_27_June_26-052.jpg/330px-Kobbie_Mainoo_England_v_Panama_27_June_26-052.jpg",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Kobbie_Mainoo_England_v_Panama_27_June_26-052.jpg/250px-Kobbie_Mainoo_England_v_Panama_27_June_26-052.jpg",
     "wikiUrl": "https://en.wikipedia.org/wiki/Kobbie_Mainoo",
-    "lastScrapedAt": "2026-07-27T19:43:03.841Z"
+    "lastScrapedAt": "2026-07-27T22:27:28.602Z"
+  },
+  {
+    "id": "kylian-mbappe",
+    "name": "Kylian Mbappe",
+    "synonyms": [
+      "kylian mbappe",
+      "mbappe",
+      "k. mbappe",
+      "k mbappe"
+    ],
+    "nationality": "France",
+    "position": "Forward",
+    "shirtNumber": "#10",
+    "caps": 106,
+    "internationalGoals": 66,
+    "clubs": [
+      "Real Madrid",
+      "Monaco II",
+      "Paris Saint-Germain",
+      "France U17",
+      "France U19",
+      "2018 Russia",
+      "2022 Qatar",
+      "2021 Italy",
+      "2025 Germany",
+      "2016 Germany",
+      "PSG"
+    ],
+    "managers": [],
+    "teamsManaged": [],
+    "trophies": [
+      "World Cup",
+      "Champions League",
+      "European Cup",
+      "League Cup",
+      "Ballon d'Or",
+      "La Liga",
+      "Bundesliga",
+      "Ligue 1",
+      "Euros",
+      "Europa League",
+      "FIFA Club World Cup",
+      "Intercontinental Cup"
+    ],
+    "leagues": [
+      "Premier League"
+    ],
+    "partners": [],
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/9/95/Kylian_Mbappe_France_v_Senegal_16_June_2026-391_%28cropped%29.jpg",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Kylian_Mbappe_France_v_Senegal_16_June_2026-391_%28cropped%29.jpg/330px-Kylian_Mbappe_France_v_Senegal_16_June_2026-391_%28cropped%29.jpg",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Kylian_Mbappe",
+    "lastScrapedAt": "2026-07-27T22:27:22.557Z"
   },
   {
     "id": "lamine-yamal",
@@ -1054,7 +3474,7 @@
       "Spain U16",
       "Spain U17",
       "Spain U19",
-      "2026 North America",
+      "2026 Canada–Mexico–US",
       "2024 Germany",
       "2025 Germany",
       "Barcelona"
@@ -1075,7 +3495,7 @@
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/3/31/Lamine_Yamal_Argentina_v_Spain_19_July_2026-214_%28cropped%29.jpg",
     "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Lamine_Yamal_Argentina_v_Spain_19_July_2026-214_%28cropped%29.jpg/330px-Lamine_Yamal_Argentina_v_Spain_19_July_2026-214_%28cropped%29.jpg",
     "wikiUrl": "https://en.wikipedia.org/wiki/Lamine_Yamal",
-    "lastScrapedAt": "2026-07-27T19:43:03.687Z"
+    "lastScrapedAt": "2026-07-27T22:27:24.595Z"
   },
   {
     "id": "leny-yoro",
@@ -1118,27 +3538,178 @@
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a2/RC_Lens_-_Lille_OSC_%2808-10-2023%29_12_%28cropped1%29.jpg",
     "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/RC_Lens_-_Lille_OSC_%2808-10-2023%29_12_%28cropped1%29.jpg/330px-RC_Lens_-_Lille_OSC_%2808-10-2023%29_12_%28cropped1%29.jpg",
     "wikiUrl": "https://en.wikipedia.org/wiki/Leny_Yoro",
-    "lastScrapedAt": "2026-07-27T19:43:07.704Z"
+    "lastScrapedAt": "2026-07-27T22:27:35.339Z"
   },
   {
-    "id": "manchester-city",
-    "name": "Manchester City",
+    "id": "lewis-hall",
+    "name": "Lewis Hall",
     "synonyms": [
-      "manchester city",
-      "city",
-      "m. city",
-      "m city"
+      "lewis hall",
+      "hall",
+      "l. hall",
+      "l hall"
     ],
     "nationality": "England",
     "clubs": [
-      "Etihad Stadium",
-      "City Football Group Limited",
-      "Khaldoon Al Mubarak",
-      "Enzo Maresca",
-      "Premier League",
-      "Home colours",
-      "Current season",
+      "Manchester United",
+      "Tottenham Hotspur",
+      "Arsenal",
+      "Chelsea",
+      "Liverpool",
       "Manchester City"
+    ],
+    "managers": [],
+    "trophies": [
+      "Premier League",
+      "Champions League",
+      "World Cup"
+    ],
+    "leagues": [
+      "Premier League"
+    ],
+    "partners": [],
+    "lastScrapedAt": "2026-07-27T22:27:36.826Z"
+  },
+  {
+    "id": "lionel-messi",
+    "name": "Lionel Messi",
+    "synonyms": [
+      "lionel messi",
+      "messi",
+      "l. messi",
+      "l messi"
+    ],
+    "nationality": "England",
+    "position": "Forward",
+    "shirtNumber": "#10",
+    "caps": 207,
+    "internationalGoals": 125,
+    "clubs": [
+      "Inter Miami",
+      "Newell's Old Boys",
+      "Barcelona C",
+      "Barcelona B",
+      "Paris Saint-Germain",
+      "Argentina U20",
+      "Argentina U23",
+      "2022 Qatar",
+      "2014 Brazil",
+      "2026 Canada–Mexico–US",
+      "2021 Brazil",
+      "2024 United States",
+      "2007 Venezuela",
+      "2015 Chile",
+      "2016 United States",
+      "2019 Brazil",
+      "2022 England",
+      "2008 Beijing",
+      "2005 Netherlands",
+      "2005 Colombia",
+      "Barcelona"
+    ],
+    "managers": [],
+    "teamsManaged": [],
+    "trophies": [
+      "World Cup",
+      "Champions League",
+      "European Cup",
+      "Ballon d'Or",
+      "La Liga",
+      "Ligue 1",
+      "Copa America",
+      "Euros",
+      "FIFA Club World Cup"
+    ],
+    "leagues": [
+      "Premier League"
+    ],
+    "partners": [],
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Leo_Messi_Argentina_v_Egypt_7_July_2026-1.jpg",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Leo_Messi_Argentina_v_Egypt_7_July_2026-1.jpg/330px-Leo_Messi_Argentina_v_Egypt_7_July_2026-1.jpg",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Lionel_Messi",
+    "lastScrapedAt": "2026-07-27T22:27:14.769Z"
+  },
+  {
+    "id": "luis-suarez",
+    "name": "Luis Suarez",
+    "synonyms": [
+      "luis suarez",
+      "suarez",
+      "l. suarez",
+      "l suarez"
+    ],
+    "nationality": "Argentina",
+    "position": "Striker",
+    "shirtNumber": "#9",
+    "clubs": [
+      "White House",
+      "Inter Miami",
+      "Atlético Madrid",
+      "Uruguay U20",
+      "Uruguay Olympic",
+      "2011 Argentina",
+      "2024 United States",
+      "Liverpool",
+      "Manchester City",
+      "Barcelona",
+      "Ajax"
+    ],
+    "managers": [],
+    "teamsManaged": [],
+    "trophies": [
+      "World Cup",
+      "Champions League",
+      "Premier League",
+      "FA Cup",
+      "League Cup",
+      "Ballon d'Or",
+      "La Liga",
+      "Serie A",
+      "Eredivisie",
+      "Copa America",
+      "Euros",
+      "UEFA Cup",
+      "Europa League",
+      "FIFA Club World Cup"
+    ],
+    "leagues": [
+      "Premier League"
+    ],
+    "partners": [],
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Luis_Su%C3%A1rez_2026_%28cropped%29.jpg",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Luis_Su%C3%A1rez_2026_%28cropped%29.jpg/330px-Luis_Su%C3%A1rez_2026_%28cropped%29.jpg",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Luis_Suarez",
+    "lastScrapedAt": "2026-07-27T22:27:08.082Z"
+  },
+  {
+    "id": "luka-modric",
+    "name": "Luka Modric",
+    "synonyms": [
+      "luka modric",
+      "modric",
+      "l. modric",
+      "l modric"
+    ],
+    "nationality": "Netherlands",
+    "position": "Central midfielder",
+    "shirtNumber": "#14",
+    "clubs": [
+      "Central midfielder",
+      "AC Milan",
+      "Dinamo Zagreb",
+      "Zrinjski Mostar",
+      "Inter Zaprešić",
+      "Tottenham Hotspur",
+      "Real Madrid",
+      "Croatia U15",
+      "Croatia U17",
+      "Croatia U18",
+      "Croatia U19",
+      "Croatia U21",
+      "2018 Russia",
+      "2022 Qatar",
+      "2023 Netherlands",
+      "Spurs"
     ],
     "managers": [],
     "teamsManaged": [],
@@ -1149,7 +3720,208 @@
       "Premier League",
       "FA Cup",
       "League Cup",
-      "Bundesliga",
+      "Ballon d'Or",
+      "La Liga",
+      "Serie A",
+      "Euros",
+      "UEFA Cup",
+      "Europa League",
+      "FIFA Club World Cup",
+      "Intercontinental Cup"
+    ],
+    "leagues": [
+      "Premier League"
+    ],
+    "partners": [],
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/8/80/Luka_Modric_Croatia_v_Portugal_2_July_2026-055.jpg",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Luka_Modric_Croatia_v_Portugal_2_July_2026-055.jpg/330px-Luka_Modric_Croatia_v_Portugal_2_July_2026-055.jpg",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Luka_Modric",
+    "lastScrapedAt": "2026-07-27T22:27:12.255Z"
+  },
+  {
+    "id": "marco-van-basten",
+    "name": "Marco van Basten",
+    "synonyms": [
+      "marco van basten",
+      "basten",
+      "m. basten",
+      "m basten",
+      "van basten"
+    ],
+    "nationality": "Netherlands",
+    "position": "Striker",
+    "shirtNumber": "#25",
+    "caps": 58,
+    "internationalGoals": 24,
+    "clubs": [
+      "AC Milan",
+      "Netherlands U21",
+      "Ajax"
+    ],
+    "managers": [],
+    "teamsManaged": [
+      "Jong Ajax",
+      "Ajax",
+      "Netherlands"
+    ],
+    "trophies": [
+      "World Cup",
+      "Champions League",
+      "European Cup",
+      "FA Cup",
+      "Ballon d'Or",
+      "Serie A",
+      "Eredivisie",
+      "Euros",
+      "UEFA Cup",
+      "Intercontinental Cup"
+    ],
+    "leagues": [
+      "Premier League"
+    ],
+    "partners": [],
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Marco_van_Basten_%282%29_%28cropped%29.jpg",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Marco_van_Basten_%282%29_%28cropped%29.jpg/250px-Marco_van_Basten_%282%29_%28cropped%29.jpg",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Marco_van_Basten",
+    "lastScrapedAt": "2026-07-27T22:26:51.712Z"
+  },
+  {
+    "id": "marcus-rashford",
+    "name": "Marcus Rashford",
+    "synonyms": [
+      "marcus rashford",
+      "rashford",
+      "m. rashford",
+      "m rashford"
+    ],
+    "nationality": "England",
+    "position": "Forward",
+    "caps": 78,
+    "internationalGoals": 19,
+    "clubs": [
+      "Manchester United",
+      "Fletcher Moss Rangers",
+      "Aston Villa",
+      "England U16",
+      "England U18",
+      "England U20",
+      "England U21",
+      "2026 North America",
+      "2020 Europe",
+      "2019 Portugal",
+      "Arsenal",
+      "Barcelona",
+      "Rangers"
+    ],
+    "managers": [],
+    "teamsManaged": [],
+    "trophies": [
+      "World Cup",
+      "Champions League",
+      "Premier League",
+      "FA Cup",
+      "League Cup",
+      "La Liga",
+      "Euros",
+      "UEFA Cup",
+      "Europa League"
+    ],
+    "leagues": [
+      "Premier League"
+    ],
+    "partners": [],
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Marcus_Rashford_England_v_Panama_27_June_26-047.jpg",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Marcus_Rashford_England_v_Panama_27_June_26-047.jpg/250px-Marcus_Rashford_England_v_Panama_27_June_26-047.jpg",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Marcus_Rashford",
+    "lastScrapedAt": "2026-07-27T22:27:27.885Z"
+  },
+  {
+    "id": "martin-peters",
+    "name": "Martin Peters",
+    "synonyms": [
+      "martin peters",
+      "peters",
+      "m. peters",
+      "m peters"
+    ],
+    "nationality": "England",
+    "position": "Midfielder",
+    "caps": 67,
+    "internationalGoals": 20,
+    "clubs": [
+      "West Ham United",
+      "Tottenham Hotspur",
+      "Norwich City",
+      "Frankston City",
+      "Sheffield United",
+      "England Youth",
+      "England U23",
+      "Arsenal",
+      "Chelsea",
+      "Manchester City",
+      "Spurs"
+    ],
+    "managers": [],
+    "teamsManaged": [
+      "Sheffield United",
+      "1966 England",
+      "1968 Italy",
+      "England",
+      "Italy"
+    ],
+    "trophies": [
+      "World Cup",
+      "Champions League",
+      "European Cup",
+      "FA Cup",
+      "League Cup",
+      "UEFA Cup"
+    ],
+    "leagues": [
+      "Premier League"
+    ],
+    "partners": [],
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/3/39/Martin_Peters_%281970%29.jpg",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Martin_Peters_%281970%29.jpg/250px-Martin_Peters_%281970%29.jpg",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Martin_Peters",
+    "lastScrapedAt": "2026-07-27T22:26:45.415Z"
+  },
+  {
+    "id": "michael-carrick",
+    "name": "Michael Carrick",
+    "synonyms": [
+      "michael carrick",
+      "carrick",
+      "m. carrick",
+      "m carrick"
+    ],
+    "nationality": "England",
+    "position": "Midfielder",
+    "shirtNumber": "#16",
+    "caps": 34,
+    "internationalGoals": 0,
+    "clubs": [
+      "Manchester United",
+      "Wallsend Boys Club",
+      "West Ham United",
+      "Swindon Town",
+      "Birmingham City",
+      "Tottenham Hotspur",
+      "England U18",
+      "England U21",
+      "England B",
+      "Spurs"
+    ],
+    "managers": [],
+    "teamsManaged": [
+      "Manchester United"
+    ],
+    "trophies": [
+      "World Cup",
+      "Champions League",
+      "Premier League",
+      "FA Cup",
+      "League Cup",
       "UEFA Cup",
       "Europa League",
       "FIFA Club World Cup"
@@ -1158,10 +3930,10 @@
       "Premier League"
     ],
     "partners": [],
-    "photoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Manchester_City_FC_badge.svg/330px-Manchester_City_FC_badge.svg.png",
-    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Manchester_City_FC_badge.svg/330px-Manchester_City_FC_badge.svg.png",
-    "wikiUrl": "https://en.wikipedia.org/wiki/Manchester_City",
-    "lastScrapedAt": "2026-07-27T19:43:14.636Z"
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Michael_Carrick_12042025_%285%29_%28cropped%29.jpg",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Michael_Carrick_12042025_%285%29_%28cropped%29.jpg/250px-Michael_Carrick_12042025_%285%29_%28cropped%29.jpg",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Michael_Carrick",
+    "lastScrapedAt": "2026-07-27T22:26:52.809Z"
   },
   {
     "id": "michael-olise",
@@ -1209,7 +3981,180 @@
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/04/Michael_Olise_France_v_Senegal_16_June_2026-307_%28cropped%29.jpg",
     "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Michael_Olise_France_v_Senegal_16_June_2026-307_%28cropped%29.jpg/330px-Michael_Olise_France_v_Senegal_16_June_2026-307_%28cropped%29.jpg",
     "wikiUrl": "https://en.wikipedia.org/wiki/Michael_Olise",
-    "lastScrapedAt": "2026-07-27T19:43:05.809Z"
+    "lastScrapedAt": "2026-07-27T22:27:34.688Z"
+  },
+  {
+    "id": "michael-owen",
+    "name": "Michael Owen",
+    "synonyms": [
+      "michael owen",
+      "owen",
+      "m. owen",
+      "m owen"
+    ],
+    "nationality": "England",
+    "position": "Striker",
+    "caps": 89,
+    "internationalGoals": 40,
+    "clubs": [
+      "Mold Alexandra",
+      "Real Madrid",
+      "Newcastle United",
+      "Manchester United",
+      "Stoke City",
+      "England U16",
+      "England U18",
+      "England U20",
+      "England U21",
+      "England B",
+      "Liverpool"
+    ],
+    "managers": [],
+    "teamsManaged": [],
+    "trophies": [
+      "World Cup",
+      "Champions League",
+      "Premier League",
+      "FA Cup",
+      "League Cup",
+      "Ballon d'Or",
+      "La Liga",
+      "UEFA Cup"
+    ],
+    "leagues": [
+      "Premier League"
+    ],
+    "partners": [],
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/2/24/Michael_Owen.jpg",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Michael_Owen.jpg/250px-Michael_Owen.jpg",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Michael_Owen",
+    "lastScrapedAt": "2026-07-27T22:27:06.963Z"
+  },
+  {
+    "id": "michel-platini",
+    "name": "Michel Platini",
+    "synonyms": [
+      "michel platini",
+      "platini",
+      "m. platini",
+      "m platini"
+    ],
+    "nationality": "France",
+    "position": "Attacking midfielder",
+    "caps": 181,
+    "internationalGoals": 98,
+    "clubs": [
+      "Lennart Johansson",
+      "Ángel María Villar",
+      "Aleksander Čeferin",
+      "France Olympic",
+      "Juventus"
+    ],
+    "managers": [],
+    "teamsManaged": [
+      "Attacking midfielder",
+      "France Olympic",
+      "FIFA World Cup",
+      "UEFA European Championship",
+      "Juventus",
+      "France"
+    ],
+    "trophies": [
+      "World Cup",
+      "Champions League",
+      "European Cup",
+      "FA Cup",
+      "Ballon d'Or",
+      "Serie A",
+      "Ligue 1",
+      "Euros",
+      "UEFA Cup",
+      "Europa League",
+      "Intercontinental Cup"
+    ],
+    "leagues": [
+      "Premier League"
+    ],
+    "partners": [],
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/66/Michel_Platini_2010_%28cropped%29.jpg",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Michel_Platini_2010_%28cropped%29.jpg/250px-Michel_Platini_2010_%28cropped%29.jpg",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Michel_Platini",
+    "lastScrapedAt": "2026-07-27T22:26:51.149Z"
+  },
+  {
+    "id": "nat-lofthouse",
+    "name": "Nat Lofthouse",
+    "synonyms": [
+      "nat lofthouse",
+      "lofthouse",
+      "n. lofthouse",
+      "n lofthouse"
+    ],
+    "nationality": "England",
+    "position": "Centre-forward",
+    "caps": 33,
+    "internationalGoals": 30,
+    "clubs": [
+      "Bolton Wanderers",
+      "Chelsea"
+    ],
+    "managers": [],
+    "teamsManaged": [
+      "Bolton Wanderers"
+    ],
+    "trophies": [
+      "World Cup",
+      "Premier League",
+      "FA Cup"
+    ],
+    "leagues": [
+      "Premier League"
+    ],
+    "partners": [],
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/en/1/1f/Nat-Lofthouse.jpeg",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/Nat-Lofthouse.jpeg/250px-Nat-Lofthouse.jpeg",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Nat_Lofthouse",
+    "lastScrapedAt": "2026-07-27T22:26:39.890Z"
+  },
+  {
+    "id": "nemanja-vidic",
+    "name": "Nemanja Vidic",
+    "synonyms": [
+      "nemanja vidic",
+      "vidic",
+      "n. vidic",
+      "n vidic"
+    ],
+    "nationality": "England",
+    "position": "Centre-back",
+    "clubs": [
+      "Jedinstvo Užice",
+      "Sloboda Užice",
+      "Red Star Belgrade",
+      "Spartak Subotica",
+      "Spartak Moscow",
+      "Manchester United",
+      "Inter Milan",
+      "[note 1]"
+    ],
+    "managers": [],
+    "teamsManaged": [],
+    "trophies": [
+      "World Cup",
+      "Champions League",
+      "Premier League",
+      "League Cup",
+      "Serie A",
+      "FIFA Club World Cup"
+    ],
+    "leagues": [
+      "Premier League"
+    ],
+    "partners": [],
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/63/Vidi%C4%87_%28cropped%29.jpg",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Vidi%C4%87_%28cropped%29.jpg/330px-Vidi%C4%87_%28cropped%29.jpg",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Nemanja_Vidic",
+    "lastScrapedAt": "2026-07-27T22:26:57.849Z"
   },
   {
     "id": "nico-williams",
@@ -1230,7 +4175,7 @@
       "Bilbao Athletic",
       "Spain U18",
       "Spain U21",
-      "2026 North America",
+      "2026 Canada–Mexico–US",
       "2024 Germany",
       "2025 Germany"
     ],
@@ -1249,56 +4194,101 @@
     ],
     "partners": [],
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Nico_Williams_Argentina_v_Spain_19_July_2026-196_%28cropped%29.jpg",
-    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Nico_Williams_Argentina_v_Spain_19_July_2026-196_%28cropped%29.jpg/330px-Nico_Williams_Argentina_v_Spain_19_July_2026-196_%28cropped%29.jpg",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Nico_Williams_Argentina_v_Spain_19_July_2026-196_%28cropped%29.jpg/250px-Nico_Williams_Argentina_v_Spain_19_July_2026-196_%28cropped%29.jpg",
     "wikiUrl": "https://en.wikipedia.org/wiki/Nico_Williams",
-    "lastScrapedAt": "2026-07-27T19:43:12.894Z"
+    "lastScrapedAt": "2026-07-27T22:27:38.328Z"
   },
   {
-    "id": "paris-saint-germain",
-    "name": "Paris Saint-Germain",
+    "id": "nobby-stiles",
+    "name": "Nobby Stiles",
     "synonyms": [
-      "paris saint-germain",
-      "saint-germain",
-      "p. saint-germain",
-      "p saint-germain"
+      "nobby stiles",
+      "stiles",
+      "n. stiles",
+      "n stiles"
     ],
     "nationality": "England",
+    "position": "Defensive midfielder",
+    "caps": 28,
+    "internationalGoals": 1,
     "clubs": [
-      "Parc des Princes",
-      "Qatar Sports Investments",
-      "Arctos Partners",
-      "Nasser Al-Khelaifi",
-      "Luis Enrique",
-      "Ligue 1",
-      "Home colours",
-      "Away colours",
-      "Current season",
-      "PSG",
-      "Paris Saint-Germain"
+      "Defensive midfielder",
+      "Manchester United",
+      "Preston North End",
+      "Football League XI"
     ],
     "managers": [],
-    "teamsManaged": [],
+    "teamsManaged": [
+      "Preston North End",
+      "Vancouver Whitecaps",
+      "West Bromwich Albion",
+      "1966 England",
+      "England"
+    ],
     "trophies": [
       "World Cup",
-      "Champions League",
       "European Cup",
       "FA Cup",
-      "Ballon d'Or",
-      "Ligue 1",
-      "Euros",
-      "UEFA Cup",
-      "Europa League",
-      "FIFA Club World Cup",
+      "League Cup",
       "Intercontinental Cup"
     ],
     "leagues": [
       "Premier League"
     ],
     "partners": [],
-    "photoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Paris_Saint-Germain_F.C..svg/330px-Paris_Saint-Germain_F.C..svg.png",
-    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Paris_Saint-Germain_F.C..svg/330px-Paris_Saint-Germain_F.C..svg.png",
-    "wikiUrl": "https://en.wikipedia.org/wiki/Paris_Saint-Germain",
-    "lastScrapedAt": "2026-07-27T19:43:17.496Z"
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/05/Nobby_Stiles_%281966%29.jpg",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Nobby_Stiles_%281966%29.jpg/250px-Nobby_Stiles_%281966%29.jpg",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Nobby_Stiles",
+    "lastScrapedAt": "2026-07-27T22:26:42.648Z"
+  },
+  {
+    "id": "patrick-vieira",
+    "name": "Patrick Vieira",
+    "synonyms": [
+      "patrick vieira",
+      "vieira",
+      "p. vieira",
+      "p vieira"
+    ],
+    "nationality": "France",
+    "position": "Midfielder",
+    "shirtNumber": "#4",
+    "caps": 107,
+    "internationalGoals": 6,
+    "clubs": [
+      "New York City FC",
+      "AC Milan",
+      "Inter Milan",
+      "Manchester City",
+      "France U21",
+      "Arsenal",
+      "Juventus"
+    ],
+    "managers": [],
+    "teamsManaged": [
+      "New York City FC",
+      "Crystal Palace"
+    ],
+    "trophies": [
+      "World Cup",
+      "Champions League",
+      "Premier League",
+      "FA Cup",
+      "League Cup",
+      "Serie A",
+      "Ligue 1",
+      "Euros",
+      "UEFA Cup",
+      "Europa League"
+    ],
+    "leagues": [
+      "Premier League"
+    ],
+    "partners": [],
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Patrick_Vieira_NYCFC_%28cropped%29.JPG",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Patrick_Vieira_NYCFC_%28cropped%29.JPG/250px-Patrick_Vieira_NYCFC_%28cropped%29.JPG",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Patrick_Vieira",
+    "lastScrapedAt": "2026-07-27T22:27:00.119Z"
   },
   {
     "id": "pau-cubars",
@@ -1321,7 +4311,7 @@
       "Spain U17",
       "Spain U21",
       "Spain U23",
-      "2026 North America",
+      "2026 Canada–Mexico–US",
       "2025 Germany",
       "2024 Paris",
       "Barcelona"
@@ -1338,42 +4328,40 @@
     ],
     "partners": [],
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/77/Pau_Cubarsi_Argentina_v_Spain_19_July_2026-181_%28cropped%29.jpg",
-    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Pau_Cubarsi_Argentina_v_Spain_19_July_2026-181_%28cropped%29.jpg/330px-Pau_Cubarsi_Argentina_v_Spain_19_July_2026-181_%28cropped%29.jpg",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Pau_Cubarsi_Argentina_v_Spain_19_July_2026-181_%28cropped%29.jpg/250px-Pau_Cubarsi_Argentina_v_Spain_19_July_2026-181_%28cropped%29.jpg",
     "wikiUrl": "https://en.wikipedia.org/wiki/Pau_Cubars%C3%AD",
-    "lastScrapedAt": "2026-07-27T19:43:04.868Z"
+    "lastScrapedAt": "2026-07-27T22:27:33.337Z"
   },
   {
-    "id": "real-madrid",
-    "name": "Real Madrid",
+    "id": "paul-scholes",
+    "name": "Paul Scholes",
     "synonyms": [
-      "real madrid",
-      "madrid",
-      "r. madrid",
-      "r madrid"
+      "paul scholes",
+      "scholes",
+      "p. scholes",
+      "p scholes"
     ],
     "nationality": "England",
+    "position": "Midfielder",
+    "shirtNumber": "#18",
+    "caps": 66,
+    "internationalGoals": 14,
     "clubs": [
-      "40°27′11.0″N 3°41′18.1″W﻿ / ﻿40.453056°N 3.688361°W﻿ / 40.453056; -3.688361",
-      "Florentino Pérez",
-      "José Mourinho",
-      "La Liga",
-      "Home colours",
-      "Away colours",
-      "Current season",
       "Manchester United",
-      "Real Madrid",
-      "Barcelona"
+      "England U18"
     ],
     "managers": [],
-    "teamsManaged": [],
+    "teamsManaged": [
+      "Salford City",
+      "Oldham Athletic"
+    ],
     "trophies": [
       "World Cup",
       "Champions League",
       "European Cup",
       "Premier League",
       "FA Cup",
-      "La Liga",
-      "Bundesliga",
+      "League Cup",
       "UEFA Cup",
       "Europa League",
       "FIFA Club World Cup",
@@ -1383,10 +4371,210 @@
       "Premier League"
     ],
     "partners": [],
-    "photoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Real_Madrid_CF.svg/330px-Real_Madrid_CF.svg.png",
-    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Real_Madrid_CF.svg/330px-Real_Madrid_CF.svg.png",
-    "wikiUrl": "https://en.wikipedia.org/wiki/Real_Madrid",
-    "lastScrapedAt": "2026-07-27T19:43:18.463Z"
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dc/P_Scholes.jpg",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/P_Scholes.jpg/250px-P_Scholes.jpg",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Paul_Scholes",
+    "lastScrapedAt": "2026-07-27T22:26:55.781Z"
+  },
+  {
+    "id": "pedri",
+    "name": "Pedri",
+    "synonyms": [
+      "pedri"
+    ],
+    "nationality": "Spain",
+    "position": "Midfielder",
+    "shirtNumber": "#8",
+    "caps": 49,
+    "internationalGoals": 6,
+    "clubs": [
+      "Las Palmas",
+      "Spain U17",
+      "Spain U18",
+      "Spain U19",
+      "Spain U21",
+      "Spain U23",
+      "2026 Canada–Mexico–US",
+      "2024 Germany",
+      "2020 Europe",
+      "2025 Germany",
+      "2020 Tokyo",
+      "Real Madrid",
+      "Barcelona"
+    ],
+    "managers": [],
+    "teamsManaged": [],
+    "trophies": [
+      "World Cup",
+      "Champions League",
+      "Ballon d'Or",
+      "La Liga",
+      "Euros",
+      "Europa League"
+    ],
+    "leagues": [
+      "Premier League"
+    ],
+    "partners": [],
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/1/16/Pedri_Argentina_v_Spain_19_July_2026-197_%28cropped%29.jpg",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Pedri_Argentina_v_Spain_19_July_2026-197_%28cropped%29.jpg/250px-Pedri_Argentina_v_Spain_19_July_2026-197_%28cropped%29.jpg",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Pedri",
+    "lastScrapedAt": "2026-07-27T22:27:29.862Z"
+  },
+  {
+    "id": "pele",
+    "name": "Pele",
+    "synonyms": [
+      "pele"
+    ],
+    "nationality": "Brazil",
+    "position": "Forward",
+    "caps": 583,
+    "internationalGoals": 569,
+    "clubs": [
+      "[note 1]",
+      "Memorial Necrópole Ecumênica",
+      "Joshua Nascimento",
+      "Dona Celeste",
+      "New York Cosmos",
+      "[note 2]",
+      "FIFA World Cup",
+      "1958 Sweden",
+      "1962 Chile",
+      "1970 Mexico",
+      "South American Championship",
+      "1959 Argentina",
+      "Fernando Henrique Cardoso",
+      "Rafael Greca",
+      "The Pelé run around",
+      "Manchester United",
+      "Real Madrid",
+      "AC Milan",
+      "Inter Milan",
+      "Paris Saint-Germain"
+    ],
+    "managers": [],
+    "teamsManaged": [],
+    "trophies": [
+      "World Cup",
+      "Premier League",
+      "Ballon d'Or",
+      "Bundesliga",
+      "Intercontinental Cup"
+    ],
+    "leagues": [
+      "Premier League"
+    ],
+    "partners": [],
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Pele_con_brasil_%28cropped%29.jpg",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Pele_con_brasil_%28cropped%29.jpg/330px-Pele_con_brasil_%28cropped%29.jpg",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Pele",
+    "lastScrapedAt": "2026-07-27T22:26:48.544Z"
+  },
+  {
+    "id": "petr-cech",
+    "name": "Petr Cech",
+    "synonyms": [
+      "petr cech",
+      "cech",
+      "p. cech",
+      "p cech"
+    ],
+    "nationality": "England",
+    "position": "Goaltender",
+    "caps": 27,
+    "internationalGoals": 0,
+    "clubs": [
+      "Association football",
+      "Ice hockey",
+      "Viktoria Plzeň",
+      "Chmel Blšany",
+      "Sparta Prague",
+      "Czech Republic U17",
+      "Czech Republic U18",
+      "Czech Republic U20",
+      "Czech Republic U21",
+      "Czech Republic",
+      "UEFA European Under-21 Championship",
+      "2002 Switzerland",
+      "NIHL 2",
+      "Haringey Huskies",
+      "Guildford Phoenix",
+      "Chelmsford Chieftains",
+      "Oxford City Stars",
+      "Belfast Giants",
+      "Arsenal",
+      "Chelsea"
+    ],
+    "managers": [],
+    "teamsManaged": [],
+    "trophies": [
+      "World Cup",
+      "Champions League",
+      "Premier League",
+      "FA Cup",
+      "League Cup",
+      "Ligue 1",
+      "Euros",
+      "Europa League",
+      "FIFA Club World Cup"
+    ],
+    "leagues": [
+      "Premier League"
+    ],
+    "partners": [],
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/75/Arsenal_players_training_before_2019_UEFA_Europa_League_final_07_%28cropped%29.jpg",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/7/75/Arsenal_players_training_before_2019_UEFA_Europa_League_final_07_%28cropped%29.jpg",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Petr_Cech",
+    "lastScrapedAt": "2026-07-27T22:27:02.931Z"
+  },
+  {
+    "id": "phil-foden",
+    "name": "Phil Foden",
+    "synonyms": [
+      "phil foden",
+      "foden",
+      "p. foden",
+      "p foden"
+    ],
+    "nationality": "England",
+    "position": "Midfielder",
+    "shirtNumber": "#47",
+    "caps": 49,
+    "internationalGoals": 4,
+    "clubs": [
+      "Manchester City",
+      "England U16",
+      "England U17",
+      "England U18",
+      "England U19",
+      "England U21",
+      "2017 India",
+      "2020 Europe",
+      "2024 Germany",
+      "2017 Croatia"
+    ],
+    "managers": [],
+    "teamsManaged": [],
+    "trophies": [
+      "World Cup",
+      "Champions League",
+      "Premier League",
+      "FA Cup",
+      "League Cup",
+      "Ballon d'Or",
+      "Euros",
+      "Europa League",
+      "FIFA Club World Cup"
+    ],
+    "leagues": [
+      "Premier League"
+    ],
+    "partners": [],
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/53/2023-10-04_Fu%C3%9Fball%2C_M%C3%A4nner%2C_UEFA_Champions_League%2C_RB_Leipzig_-_Manchester_City_FC_1DX_2613%2C_Phil_Foden.jpg",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/2023-10-04_Fu%C3%9Fball%2C_M%C3%A4nner%2C_UEFA_Champions_League%2C_RB_Leipzig_-_Manchester_City_FC_1DX_2613%2C_Phil_Foden.jpg/250px-2023-10-04_Fu%C3%9Fball%2C_M%C3%A4nner%2C_UEFA_Champions_League%2C_RB_Leipzig_-_Manchester_City_FC_1DX_2613%2C_Phil_Foden.jpg",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Phil_Foden",
+    "lastScrapedAt": "2026-07-27T22:27:26.115Z"
   },
   {
     "id": "riccardo-calafiori",
@@ -1424,9 +4612,486 @@
     ],
     "partners": [],
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e2/2024_Emirates_Cup_-_Riccardo_Calafiori_%282%29_%28cropped%29.jpg",
-    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/2024_Emirates_Cup_-_Riccardo_Calafiori_%282%29_%28cropped%29.jpg/330px-2024_Emirates_Cup_-_Riccardo_Calafiori_%282%29_%28cropped%29.jpg",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/2024_Emirates_Cup_-_Riccardo_Calafiori_%282%29_%28cropped%29.jpg/250px-2024_Emirates_Cup_-_Riccardo_Calafiori_%282%29_%28cropped%29.jpg",
     "wikiUrl": "https://en.wikipedia.org/wiki/Riccardo_Calafiori",
-    "lastScrapedAt": "2026-07-27T19:43:08.474Z"
+    "lastScrapedAt": "2026-07-27T22:27:36.258Z"
+  },
+  {
+    "id": "rio-ferdinand",
+    "name": "Rio Ferdinand",
+    "synonyms": [
+      "rio ferdinand",
+      "ferdinand",
+      "r. ferdinand",
+      "r ferdinand"
+    ],
+    "nationality": "England",
+    "position": "Centre-back",
+    "shirtNumber": "#5",
+    "caps": 81,
+    "internationalGoals": 3,
+    "clubs": [
+      "West Ham United",
+      "AFC Bournemouth",
+      "Leeds United",
+      "Manchester United",
+      "Queens Park Rangers",
+      "England U18",
+      "England U21",
+      "Rangers"
+    ],
+    "managers": [],
+    "teamsManaged": [],
+    "trophies": [
+      "World Cup",
+      "Champions League",
+      "Premier League",
+      "FA Cup",
+      "League Cup",
+      "UEFA Cup",
+      "Europa League",
+      "FIFA Club World Cup"
+    ],
+    "leagues": [
+      "Premier League"
+    ],
+    "partners": [],
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Web_Summit_2015_-_Dublin%2C_Ireland_-_22183056474_%28cropped%29.jpg",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Web_Summit_2015_-_Dublin%2C_Ireland_-_22183056474_%28cropped%29.jpg/250px-Web_Summit_2015_-_Dublin%2C_Ireland_-_22183056474_%28cropped%29.jpg",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Rio_Ferdinand",
+    "lastScrapedAt": "2026-07-27T22:26:57.619Z"
+  },
+  {
+    "id": "robert-pires",
+    "name": "Robert Pires",
+    "synonyms": [
+      "robert pires",
+      "pires",
+      "r. pires",
+      "r pires"
+    ],
+    "nationality": "France",
+    "caps": 79,
+    "internationalGoals": 14,
+    "clubs": [
+      "attacking midfielder",
+      "Reims Sainte-Anne",
+      "Metz B",
+      "Aston Villa",
+      "France U21",
+      "Arsenal",
+      "Real Madrid"
+    ],
+    "managers": [],
+    "teamsManaged": [],
+    "trophies": [
+      "World Cup",
+      "Champions League",
+      "Premier League",
+      "FA Cup",
+      "League Cup",
+      "La Liga",
+      "Ligue 1",
+      "UEFA Cup"
+    ],
+    "leagues": [
+      "Premier League"
+    ],
+    "partners": [],
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Robert_Pires_2011.jpg",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Robert_Pires_2011.jpg/250px-Robert_Pires_2011.jpg",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Robert_Pires",
+    "lastScrapedAt": "2026-07-27T22:27:00.397Z"
+  },
+  {
+    "id": "robin-van-persie",
+    "name": "Robin van Persie",
+    "synonyms": [
+      "robin van persie",
+      "persie",
+      "r. persie",
+      "r persie",
+      "van persie"
+    ],
+    "nationality": "Brazil",
+    "position": "Striker",
+    "caps": 102,
+    "internationalGoals": 50,
+    "clubs": [
+      "Manchester United",
+      "Netherlands U17",
+      "Netherlands U19",
+      "Netherlands U21",
+      "Arsenal"
+    ],
+    "managers": [],
+    "teamsManaged": [
+      "2010 South Africa",
+      "2014 Brazil",
+      "Brazil"
+    ],
+    "trophies": [
+      "World Cup",
+      "Champions League",
+      "Premier League",
+      "FA Cup",
+      "League Cup",
+      "Ballon d'Or",
+      "Eredivisie",
+      "UEFA Cup",
+      "Europa League"
+    ],
+    "leagues": [
+      "Premier League"
+    ],
+    "partners": [],
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/65/Loco-Fener_%2810%29.jpg",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Loco-Fener_%2810%29.jpg/250px-Loco-Fener_%2810%29.jpg",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Robin_van_Persie",
+    "lastScrapedAt": "2026-07-27T22:27:00.779Z"
+  },
+  {
+    "id": "rodri",
+    "name": "Rodri",
+    "synonyms": [
+      "rodri"
+    ],
+    "nationality": "England",
+    "clubs": [
+      "Manchester United",
+      "Tottenham Hotspur",
+      "Arsenal",
+      "Chelsea",
+      "Liverpool",
+      "Manchester City"
+    ],
+    "managers": [],
+    "trophies": [
+      "Premier League",
+      "Champions League",
+      "World Cup"
+    ],
+    "leagues": [
+      "Premier League"
+    ],
+    "partners": [],
+    "lastScrapedAt": "2026-07-27T22:27:26.183Z"
+  },
+  {
+    "id": "ronaldinho",
+    "name": "Ronaldinho",
+    "synonyms": [
+      "ronaldinho"
+    ],
+    "nationality": "Brazil",
+    "shirtNumber": "#10",
+    "caps": 97,
+    "internationalGoals": 33,
+    "clubs": [
+      "Porto Alegre",
+      "Attacking midfielder",
+      "left winger",
+      "Paris Saint-Germain",
+      "AC Milan",
+      "Atlético Mineiro",
+      "Brazil U17",
+      "Brazil U20",
+      "Brazil U23",
+      "Brazil Olympic",
+      "2002 Korea/Japan",
+      "2005 Germany",
+      "1999 Mexico",
+      "1999 Paraguay",
+      "2008 Beijing",
+      "2000 Brazil",
+      "1999 Argentina",
+      "1997 Egypt",
+      "1997 Paraguay",
+      "Real Madrid",
+      "Barcelona"
+    ],
+    "managers": [],
+    "teamsManaged": [],
+    "trophies": [
+      "World Cup",
+      "Champions League",
+      "Premier League",
+      "FA Cup",
+      "Ballon d'Or",
+      "La Liga",
+      "Serie A",
+      "Ligue 1",
+      "Copa America",
+      "Euros",
+      "UEFA Cup",
+      "FIFA Club World Cup"
+    ],
+    "leagues": [
+      "Premier League"
+    ],
+    "partners": [],
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Sports_Festival_2025_-_4_%28cropped%29.jpg",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Sports_Festival_2025_-_4_%28cropped%29.jpg/330px-Sports_Festival_2025_-_4_%28cropped%29.jpg",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Ronaldinho",
+    "lastScrapedAt": "2026-07-27T22:27:18.040Z"
+  },
+  {
+    "id": "ronaldo-nazario",
+    "name": "Ronaldo Nazario",
+    "synonyms": [
+      "ronaldo nazario",
+      "nazario",
+      "r. nazario",
+      "r nazario",
+      "r9",
+      "ronaldo r9"
+    ],
+    "nationality": "Brazil",
+    "position": "Striker",
+    "caps": 98,
+    "internationalGoals": 62,
+    "clubs": [
+      "São Cristóvão",
+      "Inter Milan",
+      "Real Madrid",
+      "AC Milan",
+      "Brazil U17",
+      "Brazil U23",
+      "1994 United States",
+      "2002 Korea/Japan",
+      "1998 France",
+      "1997 Saudi Arabia",
+      "1997 Bolivia",
+      "1999 Paraguay",
+      "1995 Uruguay",
+      "1996 Atlanta",
+      "Barcelona"
+    ],
+    "managers": [],
+    "teamsManaged": [],
+    "trophies": [
+      "World Cup",
+      "Champions League",
+      "European Cup",
+      "FA Cup",
+      "Ballon d'Or",
+      "La Liga",
+      "Serie A",
+      "Eredivisie",
+      "Euros",
+      "UEFA Cup",
+      "Intercontinental Cup"
+    ],
+    "leagues": [
+      "Premier League"
+    ],
+    "partners": [],
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/78/Ronaldo_Lu%C3%ADs_Naz%C3%A1rio_de_Lima_2019_%283x4_cropped%29.jpg",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Ronaldo_Lu%C3%ADs_Naz%C3%A1rio_de_Lima_2019_%283x4_cropped%29.jpg/330px-Ronaldo_Lu%C3%ADs_Naz%C3%A1rio_de_Lima_2019_%283x4_cropped%29.jpg",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Ronaldo_Nazario",
+    "lastScrapedAt": "2026-07-27T22:27:18.647Z"
+  },
+  {
+    "id": "roy-keane",
+    "name": "Roy Keane",
+    "synonyms": [
+      "roy keane",
+      "keane",
+      "r. keane",
+      "r keane"
+    ],
+    "nationality": "Ireland",
+    "position": "Midfielder",
+    "shirtNumber": "#16",
+    "caps": 67,
+    "internationalGoals": 9,
+    "clubs": [
+      "Cobh Ramblers",
+      "Nottingham Forest",
+      "Manchester United",
+      "Republic of Ireland U21",
+      "Republic of Ireland",
+      "Aston Villa",
+      "Celtic"
+    ],
+    "managers": [],
+    "teamsManaged": [
+      "Ipswich Town"
+    ],
+    "trophies": [
+      "World Cup",
+      "Champions League",
+      "Premier League",
+      "FA Cup",
+      "League Cup",
+      "Ballon d'Or",
+      "Euros",
+      "UEFA Cup",
+      "Europa League",
+      "Intercontinental Cup"
+    ],
+    "leagues": [
+      "Premier League"
+    ],
+    "partners": [],
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Roy_keane_2014.jpg",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Roy_keane_2014.jpg/250px-Roy_keane_2014.jpg",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Roy_Keane",
+    "lastScrapedAt": "2026-07-27T22:26:56.718Z"
+  },
+  {
+    "id": "ruud-gullit",
+    "name": "Ruud Gullit",
+    "synonyms": [
+      "ruud gullit",
+      "gullit",
+      "r. gullit",
+      "r gullit"
+    ],
+    "nationality": "Germany",
+    "position": "Midfielder",
+    "caps": 66,
+    "internationalGoals": 17,
+    "clubs": [
+      "HFC Haarlem",
+      "AC Milan",
+      "Netherlands U-21",
+      "Chelsea",
+      "Newcastle United"
+    ],
+    "managers": [],
+    "teamsManaged": [
+      "Chelsea",
+      "Newcastle United",
+      "LA Galaxy",
+      "Terek Grozny",
+      "1988 West Germany",
+      "1992 Sweden",
+      "Germany"
+    ],
+    "trophies": [
+      "World Cup",
+      "Champions League",
+      "European Cup",
+      "Premier League",
+      "FA Cup",
+      "League Cup",
+      "Ballon d'Or",
+      "Serie A",
+      "Eredivisie",
+      "UEFA Cup",
+      "Intercontinental Cup"
+    ],
+    "leagues": [
+      "Premier League"
+    ],
+    "partners": [],
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/67/25th_Laureus_World_Sports_Awards_-_Ruud_Gullit_-_240422_131911_%28cropped%29.jpg",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/25th_Laureus_World_Sports_Awards_-_Ruud_Gullit_-_240422_131911_%28cropped%29.jpg/250px-25th_Laureus_World_Sports_Awards_-_Ruud_Gullit_-_240422_131911_%28cropped%29.jpg",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Ruud_Gullit",
+    "lastScrapedAt": "2026-07-27T22:26:52.086Z"
+  },
+  {
+    "id": "ruud-van-nistelrooy",
+    "name": "Ruud van Nistelrooy",
+    "synonyms": [
+      "ruud van nistelrooy",
+      "nistelrooy",
+      "r. nistelrooy",
+      "r nistelrooy",
+      "van nistelrooy"
+    ],
+    "nationality": "Netherlands",
+    "position": "Striker",
+    "shirtNumber": "#10",
+    "caps": 70,
+    "internationalGoals": 35,
+    "clubs": [
+      "Den Bosch",
+      "PSV Eindhoven",
+      "Manchester United",
+      "Real Madrid",
+      "Hamburger SV",
+      "Netherlands U21"
+    ],
+    "managers": [],
+    "teamsManaged": [
+      "Jong PSV",
+      "Manchester United",
+      "Leicester City",
+      "Netherlands"
+    ],
+    "trophies": [
+      "World Cup",
+      "Champions League",
+      "European Cup",
+      "Premier League",
+      "FA Cup",
+      "League Cup",
+      "La Liga",
+      "Bundesliga",
+      "Eredivisie",
+      "Euros",
+      "Europa League"
+    ],
+    "leagues": [
+      "Premier League"
+    ],
+    "partners": [],
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Ruud_van_Nistelrooy_2017.jpg",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Ruud_van_Nistelrooy_2017.jpg/250px-Ruud_van_Nistelrooy_2017.jpg",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Ruud_van_Nistelrooy",
+    "lastScrapedAt": "2026-07-27T22:26:58.418Z"
+  },
+  {
+    "id": "ryan-giggs",
+    "name": "Ryan Giggs",
+    "synonyms": [
+      "ryan giggs",
+      "giggs",
+      "r. giggs",
+      "r giggs"
+    ],
+    "nationality": "England",
+    "caps": 1,
+    "internationalGoals": 1,
+    "clubs": [
+      "Manchester United",
+      "Canton, Cardiff",
+      "Left midfielder",
+      "left winger",
+      "Manchester City",
+      "England Schools",
+      "England U16",
+      "Wales U18",
+      "Wales U21",
+      "Great Britain",
+      "Liverpool"
+    ],
+    "managers": [],
+    "teamsManaged": [
+      "Manchester United"
+    ],
+    "trophies": [
+      "World Cup",
+      "Champions League",
+      "European Cup",
+      "Premier League",
+      "FA Cup",
+      "League Cup",
+      "Copa America",
+      "UEFA Cup",
+      "FIFA Club World Cup",
+      "Intercontinental Cup"
+    ],
+    "leagues": [
+      "Premier League"
+    ],
+    "partners": [],
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/1/13/Ryan_Giggs_2015_%28cropped%29.jpg",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Ryan_Giggs_2015_%28cropped%29.jpg/250px-Ryan_Giggs_2015_%28cropped%29.jpg",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Ryan_Giggs",
+    "lastScrapedAt": "2026-07-27T22:26:56.266Z"
   },
   {
     "id": "savinho",
@@ -1469,7 +5134,413 @@
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Cel_Spellman%2C_John_Stones%2C_Bernardo_Silva_and_Natalie_Pike_at_the_Manchester_City_After_Party%2C_2026_%28cropped%29.jpg",
     "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Cel_Spellman%2C_John_Stones%2C_Bernardo_Silva_and_Natalie_Pike_at_the_Manchester_City_After_Party%2C_2026_%28cropped%29.jpg",
     "wikiUrl": "https://en.wikipedia.org/wiki/Savinho",
-    "lastScrapedAt": "2026-07-27T19:43:06.503Z"
+    "lastScrapedAt": "2026-07-27T22:27:34.977Z"
+  },
+  {
+    "id": "sergio-aguero",
+    "name": "Sergio Aguero",
+    "synonyms": [
+      "sergio aguero",
+      "aguero",
+      "s. aguero",
+      "s aguero",
+      "kun aguero"
+    ],
+    "nationality": "Brazil",
+    "position": "Striker",
+    "caps": 101,
+    "internationalGoals": 41,
+    "clubs": [
+      "Buenos Aires",
+      "Atlético Madrid",
+      "Manchester City",
+      "Argentina U17",
+      "Argentina U20",
+      "Argentina U23",
+      "2021 Brazil",
+      "2015 Chile",
+      "2016 United States",
+      "2019 Brazil",
+      "2014 Brazil",
+      "2008 Beijing",
+      "2005 Netherlands",
+      "2007 Canada",
+      "Barcelona"
+    ],
+    "managers": [],
+    "teamsManaged": [],
+    "trophies": [
+      "World Cup",
+      "Champions League",
+      "Premier League",
+      "FA Cup",
+      "League Cup",
+      "Ballon d'Or",
+      "La Liga",
+      "Copa America",
+      "Euros",
+      "UEFA Cup",
+      "Europa League"
+    ],
+    "leagues": [
+      "Premier League"
+    ],
+    "partners": [],
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Ag%C3%BCero_in_2018.jpg",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Ag%C3%BCero_in_2018.jpg/330px-Ag%C3%BCero_in_2018.jpg",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Sergio_Aguero",
+    "lastScrapedAt": "2026-07-27T22:27:08.486Z"
+  },
+  {
+    "id": "sergio-ramos",
+    "name": "Sergio Ramos",
+    "synonyms": [
+      "sergio ramos",
+      "ramos",
+      "s. ramos",
+      "s ramos"
+    ],
+    "nationality": "Brazil",
+    "position": "Centre-back",
+    "caps": 180,
+    "internationalGoals": 23,
+    "clubs": [
+      "Sevilla Atlético",
+      "Real Madrid",
+      "Paris Saint-Germain",
+      "Spain U16",
+      "Spain U17",
+      "Spain U19",
+      "Spain U21",
+      "2010 South Africa",
+      "2008 Austria-Switzerland",
+      "2012 Poland-Ukraine",
+      "2004 Switzerland",
+      "2013 Brazil",
+      "2009 South Africa"
+    ],
+    "managers": [],
+    "teamsManaged": [],
+    "trophies": [
+      "World Cup",
+      "Champions League",
+      "European Cup",
+      "FA Cup",
+      "Ballon d'Or",
+      "La Liga",
+      "Ligue 1",
+      "Euros",
+      "UEFA Cup",
+      "Europa League",
+      "FIFA Club World Cup"
+    ],
+    "leagues": [
+      "Premier League"
+    ],
+    "partners": [],
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Sergio_Ramos_Interview_2021_%28cropped%29.jpg",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Sergio_Ramos_Interview_2021_%28cropped%29.jpg/330px-Sergio_Ramos_Interview_2021_%28cropped%29.jpg",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Sergio_Ramos",
+    "lastScrapedAt": "2026-07-27T22:27:16.049Z"
+  },
+  {
+    "id": "son-heung-min",
+    "name": "Son Heung-min",
+    "synonyms": [
+      "son heung-min",
+      "heung-min",
+      "s. heung-min",
+      "s heung-min",
+      "sonny",
+      "heung-min son",
+      "son"
+    ],
+    "nationality": "South Korea",
+    "position": "Forward",
+    "shirtNumber": "#7",
+    "caps": 147,
+    "internationalGoals": 56,
+    "clubs": [
+      "Tottenham Hotspur",
+      "Los Angeles FC",
+      "FC Seoul",
+      "[note 1]",
+      "Hamburger SV",
+      "Hamburger SV II",
+      "Bayer Leverkusen",
+      "South Korea U17",
+      "South Korea U23",
+      "South Korea",
+      "2015 Australia",
+      "2011 Qatar",
+      "2018 Jakarta-Palembang",
+      "2008 Uzbekistan",
+      "Spurs"
+    ],
+    "managers": [],
+    "teamsManaged": [],
+    "trophies": [
+      "World Cup",
+      "Champions League",
+      "Premier League",
+      "FA Cup",
+      "League Cup",
+      "Ballon d'Or",
+      "Bundesliga",
+      "Euros",
+      "Europa League"
+    ],
+    "leagues": [
+      "Premier League"
+    ],
+    "partners": [],
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b0/BFA_2023_-2_Heung-Min_Son_%28cropped%29.jpg",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/BFA_2023_-2_Heung-Min_Son_%28cropped%29.jpg/330px-BFA_2023_-2_Heung-Min_Son_%28cropped%29.jpg",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Son_Heung-min",
+    "lastScrapedAt": "2026-07-27T22:27:13.352Z"
+  },
+  {
+    "id": "stanley-matthews",
+    "name": "Stanley Matthews",
+    "synonyms": [
+      "stanley matthews",
+      "matthews",
+      "s. matthews",
+      "s matthews"
+    ],
+    "nationality": "England",
+    "position": "Outside right",
+    "caps": 54,
+    "internationalGoals": 11,
+    "clubs": [
+      "1953 FA Cup final",
+      "the sky",
+      "Outside right",
+      "Stoke City",
+      "Toronto City",
+      "England Schoolboys",
+      "The Football League XI",
+      "United Kingdom"
+    ],
+    "managers": [],
+    "teamsManaged": [
+      "Port Vale"
+    ],
+    "trophies": [
+      "World Cup",
+      "FA Cup",
+      "League Cup",
+      "Ballon d'Or"
+    ],
+    "leagues": [
+      "Premier League"
+    ],
+    "partners": [],
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/en/6/62/Stanley_Matthews%281953_FA_Cup_Final%29.jpg",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/6/62/Stanley_Matthews%281953_FA_Cup_Final%29.jpg/250px-Stanley_Matthews%281953_FA_Cup_Final%29.jpg",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Stanley_Matthews",
+    "lastScrapedAt": "2026-07-27T22:26:38.077Z"
+  },
+  {
+    "id": "steven-gerrard",
+    "name": "Steven Gerrard",
+    "synonyms": [
+      "steven gerrard",
+      "gerrard",
+      "s. gerrard",
+      "s gerrard"
+    ],
+    "nationality": "England",
+    "position": "Midfielder",
+    "shirtNumber": "#8",
+    "caps": 114,
+    "internationalGoals": 21,
+    "clubs": [
+      "Whiston, Merseyside",
+      "LA Galaxy",
+      "England U21",
+      "Liverpool",
+      "AC Milan",
+      "Aston Villa",
+      "Rangers"
+    ],
+    "managers": [],
+    "teamsManaged": [
+      "Liverpool U18/U19",
+      "Liverpool",
+      "Rangers",
+      "Aston Villa"
+    ],
+    "trophies": [
+      "World Cup",
+      "Champions League",
+      "Premier League",
+      "FA Cup",
+      "League Cup",
+      "Euros",
+      "UEFA Cup",
+      "Europa League"
+    ],
+    "leagues": [
+      "Premier League"
+    ],
+    "partners": [],
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Steven_Gerrard_2018.jpg",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Steven_Gerrard_2018.jpg/250px-Steven_Gerrard_2018.jpg",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Steven_Gerrard",
+    "lastScrapedAt": "2026-07-27T22:27:04.080Z"
+  },
+  {
+    "id": "teddy-sheringham",
+    "name": "Teddy Sheringham",
+    "synonyms": [
+      "teddy sheringham",
+      "sheringham",
+      "t. sheringham",
+      "t sheringham",
+      "sherringham",
+      "teddy sherringham",
+      "t. sherringham"
+    ],
+    "nationality": "England",
+    "position": "Striker",
+    "shirtNumber": "#10",
+    "caps": 51,
+    "internationalGoals": 11,
+    "clubs": [
+      "Highams Park",
+      "Djurgårdens IF",
+      "Nottingham Forest",
+      "Tottenham Hotspur",
+      "Manchester United",
+      "West Ham United",
+      "Colchester United",
+      "England U17",
+      "England Youth",
+      "England U21",
+      "Bayern Munich",
+      "Millwall",
+      "Portsmouth",
+      "Spurs"
+    ],
+    "managers": [],
+    "teamsManaged": [],
+    "trophies": [
+      "World Cup",
+      "Champions League",
+      "European Cup",
+      "Premier League",
+      "FA Cup",
+      "League Cup",
+      "UEFA Cup",
+      "FIFA Club World Cup",
+      "Intercontinental Cup"
+    ],
+    "leagues": [
+      "Premier League"
+    ],
+    "partners": [],
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/07/Teddy_Sheringham_-_53492983124_%28original%29.jpg",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Teddy_Sheringham_-_53492983124_%28original%29.jpg/250px-Teddy_Sheringham_-_53492983124_%28original%29.jpg",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Teddy_Sheringham",
+    "lastScrapedAt": "2026-07-27T22:26:52.401Z"
+  },
+  {
+    "id": "thierry-henry",
+    "name": "Thierry Henry",
+    "synonyms": [
+      "thierry henry",
+      "henry",
+      "t. henry",
+      "t henry"
+    ],
+    "nationality": "France",
+    "position": "Forward",
+    "shirtNumber": "#14",
+    "caps": 123,
+    "internationalGoals": 51,
+    "clubs": [
+      "Les Ulis",
+      "CO Les Ulis",
+      "INF Clairefontaine",
+      "Monaco B",
+      "New York Red Bulls",
+      "France U20",
+      "Arsenal",
+      "Barcelona",
+      "Juventus"
+    ],
+    "managers": [],
+    "teamsManaged": [
+      "Montreal Impact",
+      "France U21",
+      "France",
+      "France Olympic",
+      "1998 France",
+      "2006 Germany",
+      "2000 Belgium–Netherlands",
+      "2003 France",
+      "2024 Paris",
+      "Germany",
+      "Netherlands"
+    ],
+    "trophies": [
+      "World Cup",
+      "Champions League",
+      "Premier League",
+      "FA Cup",
+      "League Cup",
+      "Ballon d'Or",
+      "La Liga",
+      "Serie A",
+      "Ligue 1",
+      "UEFA Cup",
+      "FIFA Club World Cup"
+    ],
+    "leagues": [
+      "Premier League"
+    ],
+    "partners": [],
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Thierry_Henry_%2851649035951%29_%28cropped%29.jpg",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Thierry_Henry_%2851649035951%29_%28cropped%29.jpg/250px-Thierry_Henry_%2851649035951%29_%28cropped%29.jpg",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Thierry_Henry",
+    "lastScrapedAt": "2026-07-27T22:26:59.287Z"
+  },
+  {
+    "id": "tom-finney",
+    "name": "Tom Finney",
+    "synonyms": [
+      "tom finney",
+      "finney",
+      "t. finney",
+      "t finney"
+    ],
+    "nationality": "England",
+    "position": "Outside left",
+    "caps": 76,
+    "internationalGoals": 30,
+    "clubs": [
+      "Outside left",
+      "Preston North End",
+      "Toronto City",
+      "England B"
+    ],
+    "managers": [],
+    "teamsManaged": [],
+    "trophies": [
+      "World Cup",
+      "European Cup",
+      "Premier League",
+      "FA Cup"
+    ],
+    "leagues": [
+      "Premier League"
+    ],
+    "partners": [],
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/3/33/Tom_finney_with_england_c1950.jpg",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Tom_finney_with_england_c1950.jpg/250px-Tom_finney_with_england_c1950.jpg",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Tom_Finney",
+    "lastScrapedAt": "2026-07-27T22:26:39.037Z"
   },
   {
     "id": "viktor-gy-keres",
@@ -1514,9 +5585,100 @@
     ],
     "partners": [],
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/73/Viktor_Gy%C3%B6keres_2026-06-04_1_%28cropped%29.jpg",
-    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Viktor_Gy%C3%B6keres_2026-06-04_1_%28cropped%29.jpg/330px-Viktor_Gy%C3%B6keres_2026-06-04_1_%28cropped%29.jpg",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Viktor_Gy%C3%B6keres_2026-06-04_1_%28cropped%29.jpg/250px-Viktor_Gy%C3%B6keres_2026-06-04_1_%28cropped%29.jpg",
     "wikiUrl": "https://en.wikipedia.org/wiki/Viktor_Gy%C3%B6keres",
-    "lastScrapedAt": "2026-07-27T19:43:08.261Z"
+    "lastScrapedAt": "2026-07-27T22:27:36.013Z"
+  },
+  {
+    "id": "vincent-kompany",
+    "name": "Vincent Kompany",
+    "synonyms": [
+      "vincent kompany",
+      "kompany",
+      "v. kompany",
+      "v kompany"
+    ],
+    "nationality": "Belgium",
+    "position": "Centre-back",
+    "caps": 89,
+    "internationalGoals": 4,
+    "clubs": [
+      "Bayern Munich",
+      "Hamburger SV",
+      "Manchester City",
+      "Belgium U16",
+      "Belgium U17"
+    ],
+    "managers": [],
+    "teamsManaged": [
+      "Bayern Munich",
+      "2018 Russia"
+    ],
+    "trophies": [
+      "World Cup",
+      "Champions League",
+      "Premier League",
+      "FA Cup",
+      "League Cup",
+      "Bundesliga",
+      "Euros",
+      "UEFA Cup",
+      "Europa League"
+    ],
+    "leagues": [
+      "Premier League"
+    ],
+    "partners": [],
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/4/46/Vincent_Kompany_Bayern_Munich_%28cropped%29.jpg",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Vincent_Kompany_Bayern_Munich_%28cropped%29.jpg/330px-Vincent_Kompany_Bayern_Munich_%28cropped%29.jpg",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Vincent_Kompany",
+    "lastScrapedAt": "2026-07-27T22:27:09.293Z"
+  },
+  {
+    "id": "vinicius-junior",
+    "name": "Vinicius Junior",
+    "synonyms": [
+      "vinicius junior",
+      "junior",
+      "v. junior",
+      "v junior"
+    ],
+    "nationality": "Brazil",
+    "shirtNumber": "#7",
+    "caps": 54,
+    "internationalGoals": 13,
+    "clubs": [
+      "São Gonçalo, Rio de Janeiro",
+      "left winger",
+      "Real Madrid",
+      "Real Madrid B",
+      "Brazil U15",
+      "Brazil U17",
+      "Brazil U20",
+      "2021 Brazil",
+      "2017 Chile",
+      "2015 Colombia"
+    ],
+    "managers": [],
+    "teamsManaged": [],
+    "trophies": [
+      "World Cup",
+      "Champions League",
+      "Premier League",
+      "Ballon d'Or",
+      "La Liga",
+      "Euros",
+      "FIFA Club World Cup",
+      "Intercontinental Cup"
+    ],
+    "leagues": [
+      "Premier League"
+    ],
+    "partners": [],
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/1/10/Vin%C3%ADcius_J%C3%BAnior_Brazil_V_Morocco_13_June_2026-207_%28cropped%29.jpg",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Vin%C3%ADcius_J%C3%BAnior_Brazil_V_Morocco_13_June_2026-207_%28cropped%29.jpg/330px-Vin%C3%ADcius_J%C3%BAnior_Brazil_V_Morocco_13_June_2026-207_%28cropped%29.jpg",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Vinicius_Junior",
+    "lastScrapedAt": "2026-07-27T22:27:23.864Z"
   },
   {
     "id": "warren-za-re-emery",
@@ -1560,6 +5722,231 @@
     "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Warren_Zaire-Emery_France_v_Senegal_16_June_2026-279.jpg",
     "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Warren_Zaire-Emery_France_v_Senegal_16_June_2026-279.jpg/330px-Warren_Zaire-Emery_France_v_Senegal_16_June_2026-279.jpg",
     "wikiUrl": "https://en.wikipedia.org/wiki/Warren_Za%C3%AFre-Emery",
-    "lastScrapedAt": "2026-07-27T19:43:07.363Z"
+    "lastScrapedAt": "2026-07-27T22:27:35.181Z"
+  },
+  {
+    "id": "wayne-rooney",
+    "name": "Wayne Rooney",
+    "synonyms": [
+      "wayne rooney",
+      "rooney",
+      "w. rooney",
+      "w rooney"
+    ],
+    "nationality": "England",
+    "shirtNumber": "#10",
+    "caps": 120,
+    "internationalGoals": 53,
+    "clubs": [
+      "D.C. United",
+      "Manchester United",
+      "Derby County",
+      "England U17",
+      "England U19",
+      "Liverpool",
+      "Manchester City",
+      "Everton"
+    ],
+    "managers": [],
+    "teamsManaged": [
+      "Derby County",
+      "D.C. United",
+      "Birmingham City",
+      "Plymouth Argyle"
+    ],
+    "trophies": [
+      "World Cup",
+      "Champions League",
+      "Premier League",
+      "FA Cup",
+      "League Cup",
+      "Ballon d'Or",
+      "Euros",
+      "Europa League",
+      "FIFA Club World Cup"
+    ],
+    "leagues": [
+      "Premier League"
+    ],
+    "partners": [],
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Wayne_Rooney_%2850121495731%29_%28cropped%29.jpg",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Wayne_Rooney_%2850121495731%29_%28cropped%29.jpg/250px-Wayne_Rooney_%2850121495731%29_%28cropped%29.jpg",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Wayne_Rooney",
+    "lastScrapedAt": "2026-07-27T22:26:54.304Z"
+  },
+  {
+    "id": "william-saliba",
+    "name": "William Saliba",
+    "synonyms": [
+      "william saliba",
+      "saliba",
+      "w. saliba",
+      "w saliba"
+    ],
+    "nationality": "France",
+    "position": "Centre-back",
+    "shirtNumber": "#2",
+    "caps": 38,
+    "internationalGoals": 0,
+    "clubs": [
+      "AS Bondy",
+      "Saint-Étienne B",
+      "France U16",
+      "France U17",
+      "France U18",
+      "France U19",
+      "France U20",
+      "France U21",
+      "Arsenal"
+    ],
+    "managers": [],
+    "teamsManaged": [],
+    "trophies": [
+      "World Cup",
+      "Champions League",
+      "Premier League",
+      "FA Cup",
+      "Ligue 1",
+      "Europa League"
+    ],
+    "leagues": [
+      "Premier League"
+    ],
+    "partners": [],
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c2/William_Saliba_France_v_Senegal_16_June_2026-336_%28cropped%29.jpg",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/William_Saliba_France_v_Senegal_16_June_2026-336_%28cropped%29.jpg/330px-William_Saliba_France_v_Senegal_16_June_2026-336_%28cropped%29.jpg",
+    "wikiUrl": "https://en.wikipedia.org/wiki/William_Saliba",
+    "lastScrapedAt": "2026-07-27T22:27:26.444Z"
+  },
+  {
+    "id": "xavi",
+    "name": "Xavi",
+    "synonyms": [
+      "xavi"
+    ],
+    "nationality": "England",
+    "clubs": [
+      "Manchester United",
+      "Tottenham Hotspur",
+      "Arsenal",
+      "Chelsea",
+      "Liverpool",
+      "Manchester City"
+    ],
+    "managers": [],
+    "trophies": [
+      "Premier League",
+      "Champions League",
+      "World Cup"
+    ],
+    "leagues": [
+      "Premier League"
+    ],
+    "partners": [],
+    "lastScrapedAt": "2026-07-27T22:27:15.341Z"
+  },
+  {
+    "id": "yaya-toure",
+    "name": "Yaya Toure",
+    "synonyms": [
+      "yaya toure",
+      "toure",
+      "y. toure",
+      "y toure"
+    ],
+    "nationality": "England",
+    "position": "Midfielder",
+    "clubs": [
+      "Slovan Bratislava",
+      "ASEC Mimosas",
+      "Metalurh Donetsk",
+      "Manchester City",
+      "Qingdao Huanghai",
+      "Ivory Coast",
+      "Tottenham Hotspur",
+      "Barcelona",
+      "Spurs"
+    ],
+    "managers": [],
+    "teamsManaged": [
+      "Olimpik Donetsk",
+      "Akhmat Grozny",
+      "Tottenham Hotspur",
+      "Standard Liège",
+      "Saudi Arabia",
+      "Slovan Bratislava"
+    ],
+    "trophies": [
+      "World Cup",
+      "Champions League",
+      "Premier League",
+      "FA Cup",
+      "League Cup",
+      "La Liga",
+      "Ligue 1",
+      "Euros",
+      "UEFA Cup",
+      "Europa League",
+      "FIFA Club World Cup"
+    ],
+    "leagues": [
+      "Premier League"
+    ],
+    "partners": [],
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Yaya_Tour%C3%A9_%28cropped%29.jpg",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Yaya_Tour%C3%A9_%28cropped%29.jpg/330px-Yaya_Tour%C3%A9_%28cropped%29.jpg",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Yaya_Toure",
+    "lastScrapedAt": "2026-07-27T22:27:09.611Z"
+  },
+  {
+    "id": "zinedine-zidane",
+    "name": "Zinedine Zidane",
+    "synonyms": [
+      "zinedine zidane",
+      "zidane",
+      "z. zidane",
+      "z zidane"
+    ],
+    "nationality": "France",
+    "position": "Attacking midfielder",
+    "shirtNumber": "#10",
+    "caps": 108,
+    "internationalGoals": 31,
+    "clubs": [
+      "Attacking midfielder",
+      "Real Madrid",
+      "France U16",
+      "France U17",
+      "France U18",
+      "France U21",
+      "Juventus"
+    ],
+    "managers": [],
+    "teamsManaged": [
+      "Real Madrid Castilla",
+      "Real Madrid"
+    ],
+    "trophies": [
+      "World Cup",
+      "Champions League",
+      "European Cup",
+      "FA Cup",
+      "Ballon d'Or",
+      "La Liga",
+      "Serie A",
+      "Ligue 1",
+      "Euros",
+      "UEFA Cup",
+      "FIFA Club World Cup",
+      "Intercontinental Cup"
+    ],
+    "leagues": [
+      "Premier League"
+    ],
+    "partners": [],
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Zinedine_Zidane_by_Tasnim_03.jpg",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Zinedine_Zidane_by_Tasnim_03.jpg/330px-Zinedine_Zidane_by_Tasnim_03.jpg",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Zinedine_Zidane",
+    "lastScrapedAt": "2026-07-27T22:27:17.485Z"
   }
 ]
