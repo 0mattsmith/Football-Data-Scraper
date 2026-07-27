@@ -73,5 +73,5 @@ if ($LASTEXITCODE -ne 0) {
 
 Write-Host "`n==========================================================" -ForegroundColor Cyan
 Write-Host " SUCCESS: All done! Run via CLI from any machine:" -ForegroundColor Cyan
-Write-Host "      npx github:0mattsmith/Football-Data-Scraper info Beckham" -ForegroundColor White
+Write-Host '      npx --allow-git=all github:0mattsmith/Football-Data-Scraper info Beckham ' -ForegroundColor White
 Write-Host "==========================================================" -ForegroundColor Cyan

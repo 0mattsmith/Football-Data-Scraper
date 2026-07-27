@@ -12,17 +12,17 @@ You can run this scraper CLI directly from any terminal using `npx`:
 Scrapes clean playing position, iconic shirt number (`#7`, `#10`, etc.), international caps & goals, career clubs, trophies, and managerial careers:
 
 ```bash
-npx github:0mattsmith/Football-Data-Scraper info "David Beckham"
+npx --allow-git=all github:0mattsmith/Football-Data-Scraper info "David Beckham"
 ```
 ```bash
-npx github:0mattsmith/Football-Data-Scraper info "Frank Lampard"
+npx --allow-git=all github:0mattsmith/Football-Data-Scraper info "Frank Lampard"
 ```
 
 ### 2. Scrape canonical generic portrait photo
 Scores aspect ratio, headshot keywords, and Wikipedia infobox images to select the cleanest generic faceshot:
 
 ```bash
-npx github:0mattsmith/Football-Data-Scraper photo "Cole Palmer"
+npx --allow-git=all github:0mattsmith/Football-Data-Scraper photo "Cole Palmer"
 ```
 
 ### 3. Scrape by Era or Trending Wonderkids
@@ -30,10 +30,10 @@ Scrapes and exports footballer profiles to JSON and Firebase Firestore:
 
 ```bash
 # Discover & scrape newest wonderkids and breakout stars
-npx github:0mattsmith/Football-Data-Scraper scrape -e trending
+npx --allow-git=all github:0mattsmith/Football-Data-Scraper scrape -e trending
 
 # Scrape all eras (Pioneers 1863-1945, Post-War 1946-1991, Premier League 1992-2022, Modern 2023+, Trending)
-npx github:0mattsmith/Football-Data-Scraper scrape -e all
+npx --allow-git=all github:0mattsmith/Football-Data-Scraper scrape -e all
 ```
 
 ---
