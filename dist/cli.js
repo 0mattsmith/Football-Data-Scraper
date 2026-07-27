@@ -44,6 +44,7 @@ const wikidataScraper_1 = require("./scrapers/wikidataScraper");
 const exportDb_1 = require("./syncer/exportDb");
 const firestoreUpsert_1 = require("./syncer/firestoreUpsert");
 const server_1 = require("./api/server");
+const graphScraper_1 = require("./scrapers/graphScraper");
 const program = new commander_1.Command();
 program
     .name('football-data-scraper')
@@ -149,5 +150,32 @@ program
     const apiKeys = (options.apiKeys || '').split(',').map((k) => k.trim()).filter(Boolean);
     const server = new server_1.FootballApiServer(port, apiKeys);
     await server.start();
+});
+program
+    .command('graph [entity] [id]')
+    .description('Inspect the Historical Football Knowledge Graph (entity: clubs, stadiums, trophies, nationalteams, all)')
+    .action((entity = 'all', id) => {
+    const graph = (0, graphScraper_1.buildFootballKnowledgeGraph)();
+    const targetEntity = entity.toLowerCase();
+    if (targetEntity === 'all') {
+        console.log(JSON.stringify(graph, null, 2));
+        return;
+    }
+    const section = graph[targetEntity] || graph[`${targetEntity}s`];
+    if (!section) {
+        console.error(`Invalid graph entity "${entity}". Valid entities: clubs, stadiums, trophies, nationalteams, all`);
+        process.exit(1);
+    }
+    if (id) {
+        const item = section[id.toLowerCase()] || Object.values(section).find((x) => x.id === id.toLowerCase() || x.synonyms?.includes(id.toLowerCase()));
+        if (!item) {
+            console.error(`ID "${id}" not found in entity "${entity}".`);
+            process.exit(1);
+        }
+        console.log(JSON.stringify(item, null, 2));
+    }
+    else {
+        console.log(JSON.stringify(section, null, 2));
+    }
 });
 program.parse(process.argv);

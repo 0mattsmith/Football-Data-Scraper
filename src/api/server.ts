@@ -4,6 +4,8 @@ import fs from 'fs';
 import path from 'path';
 import { FootballerProfile } from '../types/footballer';
 import { scrapePlayerPhoto } from '../scrapers/photoScraper';
+import { FootballKnowledgeGraph } from '../types/graph';
+import { buildFootballKnowledgeGraph } from '../scrapers/graphScraper';
 
 /**
  * Football-Data-Scraper REST API Server with API Key Authentication & CORS.
@@ -12,6 +14,7 @@ import { scrapePlayerPhoto } from '../scrapers/photoScraper';
  */
 export class FootballApiServer {
   private profiles: FootballerProfile[] = [];
+  private graph: FootballKnowledgeGraph = buildFootballKnowledgeGraph();
   private apiKeys: Set<string>;
   private port: number;
 
@@ -179,10 +182,45 @@ export class FootballApiServer {
         return this.sendJson(res, 200, player);
       }
 
+      // GET /v1/graph -> Return full cross-referenced Football Knowledge Graph
+      if (pathname === '/v1/graph') {
+        return this.sendJson(res, 200, this.graph);
+      }
+
+      // GET /v1/clubs -> Return all clubs in knowledge graph
+      if (pathname === '/v1/clubs') {
+        return this.sendJson(res, 200, { count: Object.keys(this.graph.clubs).length, data: this.graph.clubs });
+      }
+
+      // GET /v1/clubs/:id -> Lookup specific club profile
+      if (pathname.startsWith('/v1/clubs/')) {
+        const clubId = decodeURIComponent(pathname.slice('/v1/clubs/'.length)).toLowerCase().trim();
+        const club = this.graph.clubs[clubId] || Object.values(this.graph.clubs).find(c => c.synonyms.includes(clubId));
+        if (!club) {
+          return this.sendJson(res, 404, { error: 'Not Found', message: `Club "${clubId}" not found in knowledge graph.` });
+        }
+        return this.sendJson(res, 200, club);
+      }
+
+      // GET /v1/stadiums -> Return all current & past stadiums in knowledge graph
+      if (pathname === '/v1/stadiums') {
+        return this.sendJson(res, 200, { count: Object.keys(this.graph.stadiums).length, data: this.graph.stadiums });
+      }
+
+      // GET /v1/stadiums/:id -> Lookup specific stadium profile
+      if (pathname.startsWith('/v1/stadiums/')) {
+        const stadiumId = decodeURIComponent(pathname.slice('/v1/stadiums/'.length)).toLowerCase().trim();
+        const stadium = this.graph.stadiums[stadiumId] || Object.values(this.graph.stadiums).find(s => s.synonyms.includes(stadiumId));
+        if (!stadium) {
+          return this.sendJson(res, 404, { error: 'Not Found', message: `Stadium "${stadiumId}" not found in knowledge graph.` });
+        }
+        return this.sendJson(res, 200, stadium);
+      }
+
       // Fallthrough 404
       return this.sendJson(res, 404, {
         error: 'Not Found',
-        message: 'Endpoint not found. Valid routes: /v1/players, /v1/players/random, /v1/players/:id, /v1/photo/:name, /v1/health'
+        message: 'Endpoint not found. Valid routes: /v1/players, /v1/players/random, /v1/players/:id, /v1/photo/:name, /v1/graph, /v1/clubs, /v1/stadiums, /v1/health'
       });
     });
 
@@ -196,6 +234,9 @@ export class FootballApiServer {
         console.log(`                GET /v1/players/random?era=...&apiKey=...   `);
         console.log(`                GET /v1/players/:id?apiKey=...              `);
         console.log(`                GET /v1/photo/:name?apiKey=...              `);
+        console.log(`                GET /v1/graph?apiKey=... (Knowledge Graph)  `);
+        console.log(`                GET /v1/clubs?apiKey=...                    `);
+        console.log(`                GET /v1/stadiums?apiKey=...                 `);
         console.log(`                GET /v1/health (Public status)              `);
         console.log(`=============================================================`);
         resolve(server);

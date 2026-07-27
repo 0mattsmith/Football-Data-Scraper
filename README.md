@@ -49,7 +49,21 @@ npx --allow-git=all github:0mattsmith/Football-Data-Scraper serve --port 3000 --
 - `GET /v1/players/random?era=premierleague&apiKey=gb_live_demo_key` — Random trivia player generator
 - `GET /v1/players/david-beckham?apiKey=gb_live_demo_key` — Get enriched profile for a specific player
 - `GET /v1/photo/cole-palmer?apiKey=gb_live_demo_key` — Live generic portrait photo scraper
+- `GET /v1/graph?apiKey=gb_live_demo_key` — Full Historical Football Knowledge Graph
+- `GET /v1/clubs?apiKey=gb_live_demo_key` — All clubs (EFL, Historic FL, Europe, South America, MLS/NASL)
+- `GET /v1/stadiums?apiKey=gb_live_demo_key` — Current and historic/demolished stadiums
 - `GET /v1/health` — Public health check & status (No API key required)
+
+### 5. Inspect Historical Football Knowledge Graph
+Inspect cross-referenced Clubs, Stadiums (current & historic/demolished), Badges, Trophies, National Team Crests, and Country Flags:
+
+```bash
+# Query present-day and historic badges & stadiums for a club
+npx --allow-git=all github:0mattsmith/Football-Data-Scraper graph clubs arsenal
+
+# Query historic or demolished stadiums (opening/closing dates & capacities)
+npx --allow-git=all github:0mattsmith/Football-Data-Scraper graph stadiums highbury
+```
 
 ---
 

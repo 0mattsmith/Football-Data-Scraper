@@ -9,6 +9,7 @@ import { scrapeEraProfiles, FootballEra } from './scrapers/wikidataScraper';
 import { exportToLocalDb, syncToHalfTimeTrivia } from './syncer/exportDb';
 import { upsertToFirestore } from './syncer/firestoreUpsert';
 import { FootballApiServer } from './api/server';
+import { buildFootballKnowledgeGraph } from './scrapers/graphScraper';
 
 const program = new Command();
 
@@ -123,6 +124,36 @@ program
     const apiKeys = (options.apiKeys || '').split(',').map((k: string) => k.trim()).filter(Boolean);
     const server = new FootballApiServer(port, apiKeys);
     await server.start();
+  });
+
+program
+  .command('graph [entity] [id]')
+  .description('Inspect the Historical Football Knowledge Graph (entity: clubs, stadiums, trophies, nationalteams, all)')
+  .action((entity = 'all', id) => {
+    const graph = buildFootballKnowledgeGraph();
+    const targetEntity = entity.toLowerCase();
+
+    if (targetEntity === 'all') {
+      console.log(JSON.stringify(graph, null, 2));
+      return;
+    }
+
+    const section = (graph as any)[targetEntity] || (graph as any)[`${targetEntity}s`];
+    if (!section) {
+      console.error(`Invalid graph entity "${entity}". Valid entities: clubs, stadiums, trophies, nationalteams, all`);
+      process.exit(1);
+    }
+
+    if (id) {
+      const item = section[id.toLowerCase()] || Object.values(section).find((x: any) => x.id === id.toLowerCase() || x.synonyms?.includes(id.toLowerCase()));
+      if (!item) {
+        console.error(`ID "${id}" not found in entity "${entity}".`);
+        process.exit(1);
+      }
+      console.log(JSON.stringify(item, null, 2));
+    } else {
+      console.log(JSON.stringify(section, null, 2));
+    }
   });
 
 program.parse(process.argv);
