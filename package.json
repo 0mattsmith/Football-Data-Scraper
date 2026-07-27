@@ -1,0 +1,45 @@
+{
+  "name": "football-data-scraper",
+  "version": "1.0.0",
+  "description": "Ever-evolving Footballer Data Scraper & Archive Engine from FA inception (1863) to present day. Exports to JSON and Firebase Firestore for Half Time Trivia.",
+  "main": "dist/cli.js",
+  "bin": {
+    "football-data-scraper": "./bin/cli.js",
+    "fds": "./bin/cli.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "scrape": "tsx src/cli.ts scrape -e premierleague",
+    "scrape:full": "tsx src/cli.ts scrape -e all",
+    "scrape:trending": "tsx src/cli.ts scrape -e trending",
+    "scrape:test": "tsx src/cli.ts scrape -e premierleague",
+    "sync:halftime": "tsx src/cli.ts sync",
+    "upsert:firestore": "tsx src/cli.ts firestore",
+    "serve": "tsx src/cli.ts serve",
+    "photo": "tsx src/cli.ts photo"
+  },
+  "keywords": [
+    "football",
+    "trivia",
+    "scraper",
+    "wikidata",
+    "wikipedia",
+    "firestore",
+    "half-time-trivia"
+  ],
+  "author": "Matt Smith",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.7.4",
+    "cheerio": "^1.0.0-rc.12",
+    "cli-progress": "^3.12.0",
+    "commander": "^12.1.0",
+    "firebase-admin": "^12.3.0"
+  },
+  "devDependencies": {
+    "@types/cli-progress": "^3.11.5",
+    "@types/node": "^20.14.0",
+    "tsx": "^4.16.0",
+    "typescript": "^5.5.3"
+  }
+}
